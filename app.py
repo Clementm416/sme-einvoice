@@ -21,13 +21,10 @@ def save_json(path, data):
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
-def clean(val):
-    """Convert nan/None to empty string"""
-    s = str(val).strip()
-    return "" if s in ("nan", "None", "NaN") else s
-
 def format_display_df(df):
     display = df.copy()
+    cols_to_hide = [c for c in display.columns if str(c).startswith('_')]
+    display = display.drop(columns=cols_to_hide)
     if 'Price' in display.columns:
         display['Price'] = display['Price'].apply(lambda x: f"RM {float(x):,.2f}" if pd.notna(x) else "")
     if 'Qty' in display.columns:
@@ -42,6 +39,10 @@ def main():
 
     if 'kit' not in st.session_state:
         st.session_state.kit = SME_AutoKit_Pro()
+
+    # Store processed df in session state — no file writing
+    if 'processed_df' not in st.session_state:
+        st.session_state.processed_df = None
 
     st.sidebar.header("⚙️ Control Panel")
     menu = st.sidebar.radio("Navigation", [
@@ -77,7 +78,6 @@ def main():
 
         st.markdown("---")
         st.subheader("👤 Step 2: Buyer Information")
-
         buyer_mode = st.radio("Buyer Type", ["Select from Profile (B2B)", "One-time Entry (Retail / Walk-in)"], horizontal=True)
         buyer_info = {}
 
@@ -98,8 +98,8 @@ def main():
                 retail_name    = st.text_input("Buyer Name / Company", placeholder="e.g. Ahmad bin Ali / ABC Trading")
                 retail_tin     = st.text_input("Buyer TIN (enter 'NA' if none)", placeholder="e.g. IG12345678900")
             with r2:
-                retail_reg     = st.text_input("Registration No. (optional)", placeholder="e.g. 202201056789")
-                retail_address = st.text_input("Buyer Address", placeholder="e.g. No. 5, Jalan ABC, Johor Bahru")
+                retail_reg     = st.text_input("Registration No. (optional)")
+                retail_address = st.text_input("Buyer Address")
             buyer_info = {
                 "name":    retail_name,
                 "tin":     retail_tin or "NA",
@@ -124,7 +124,6 @@ def main():
         if uploaded_file:
             try:
                 df = pd.read_csv(uploaded_file) if uploaded_file.name.endswith('.csv') else pd.read_excel(uploaded_file)
-
                 target_col = next((c for c in df.columns if any(
                     k in str(c).lower() for k in ['item', 'desc', '商品', '描述'])), None)
 
@@ -134,16 +133,32 @@ def main():
                     df['Compliance_Status'] = [r[1] for r in results]
                     df['Export_Ready']      = df['Compliance_Status'].apply(lambda x: "YES" if "🟢" in x else "NO")
 
+                    # Embed all metadata into df — stored in session, not file
+                    df['_client_name']    = selected_client
+                    df['_client_tin']     = client_info.get('tin', '')
+                    df['_client_reg']     = client_info.get('reg_no', '')
+                    df['_client_address'] = client_info.get('address', '')
+                    df['_client_sst']     = client_info.get('sst_no', '')
+                    df['_buyer_name']     = buyer_info.get('name', '')
+                    df['_buyer_tin']      = buyer_info.get('tin', '')
+                    df['_buyer_reg']      = buyer_info.get('reg_no', '')
+                    df['_buyer_address']  = buyer_info.get('address', '')
+                    df['_invoice_date']   = str(invoice_date)
+                    df['_currency']       = currency
+                    df['_invoice_note']   = invoice_note if invoice_note else ''
+
+                    # Save to session state — no files written
+                    st.session_state.processed_df = df
+
+                    # Dashboard
                     st.write("### 📊 Data Overview")
                     ready_df = df[df['Export_Ready'] == "YES"]
                     total_sales, total_tax = 0.0, 0.0
-                    zero_tax_codes = ["47111"]
-
                     for _, row in ready_df.iterrows():
                         p    = float(row.get('Price', 0.0))
                         q    = float(row.get('Qty', 1.0))
                         code = str(row['Suggested_MSIC']).split('.')[0].zfill(5)
-                        rate = 0.00 if code in zero_tax_codes else 0.06
+                        rate = 0.00 if code == "47111" else 0.06
                         sub  = p * q
                         total_sales += sub
                         total_tax   += sub * rate
@@ -151,7 +166,6 @@ def main():
                     total  = len(df)
                     green  = len(ready_df)
                     yellow = df['Compliance_Status'].str.contains('🟡').sum()
-                    red    = df['Compliance_Status'].str.contains('🔴').sum()
 
                     m1, m2, m3, m4, m5 = st.columns(5)
                     m1.metric("Client", selected_client)
@@ -171,6 +185,7 @@ def main():
 
                     st.dataframe(display_df.style.apply(row_style, axis=1), use_container_width=True)
 
+                    # Quick correction
                     st.markdown("---")
                     st.subheader("🛠️ Quick Correction (Learning Mode)")
                     needs_fix = df[df['Export_Ready'] == "NO"][target_col].unique()
@@ -190,30 +205,13 @@ def main():
                     else:
                         st.success("✅ All items passed! No manual correction needed.")
 
+                    # Download Excel
                     st.markdown("---")
-                    st.subheader("📥 Download & Sync Data")
-
-                    styled_df = get_styled_df(df)
+                    st.subheader("📥 Download Verified Report")
+                    styled_df = get_styled_df(df.drop(columns=[c for c in df.columns if c.startswith('_')]))
                     output_buffer = io.BytesIO()
                     with pd.ExcelWriter(output_buffer, engine='openpyxl') as writer:
                         styled_df.to_excel(writer, index=False)
-
-                    safe_name = selected_client.replace(" ", "_").replace("/", "_")
-                    internal_save_path = f"Optimized_{safe_name}.xlsx"
-
-                    df['_client_name']    = selected_client
-                    df['_client_tin']     = client_info.get('tin', '')
-                    df['_client_reg']     = client_info.get('reg_no', '')
-                    df['_client_address'] = client_info.get('address', '')
-                    df['_client_sst']     = client_info.get('sst_no', '')
-                    df['_buyer_name']     = buyer_info.get('name', '')
-                    df['_buyer_tin']      = buyer_info.get('tin', '')
-                    df['_buyer_reg']      = buyer_info.get('reg_no', '')
-                    df['_buyer_address']  = buyer_info.get('address', '')
-                    df['_invoice_date']   = str(invoice_date)
-                    df['_currency']       = currency
-                    df['_invoice_note']   = invoice_note
-                    df.to_excel(internal_save_path, index=False)
 
                     st.download_button(
                         label="🚀 Download Verified Excel Report",
@@ -221,7 +219,7 @@ def main():
                         file_name=f"Verified_{selected_client}_{uploaded_file.name}",
                         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
                     )
-                    st.caption(f"✅ Backed up to: {internal_save_path} — ready for JSON export.")
+                    st.info("✅ Data saved in session. Go to 【📦 Export LHDN JSON】 to generate submission package.")
 
                 else:
                     st.warning("⚠️ Cannot find item column. Make sure headers contain 'Item' or 'Description'.")
@@ -243,7 +241,7 @@ def main():
                 new_tin     = st.text_input("TIN Number *", placeholder="e.g. C12345678900")
                 new_reg     = st.text_input("SSM Registration No. *", placeholder="e.g. 202301012345")
             with n2:
-                new_sst     = st.text_input("SST Number (leave blank if exempt)", placeholder="e.g. W10-1234-12345678")
+                new_sst     = st.text_input("SST Number (leave blank if exempt)")
                 new_msic    = st.text_input("Primary MSIC Code *", placeholder="e.g. 46631")
                 new_address = st.text_area("Business Address *", placeholder="No. 1, Jalan ABC, 12345 Johor Bahru, Johor", height=80)
 
@@ -291,8 +289,8 @@ def main():
                 b_tin     = st.text_input("Buyer TIN *", placeholder="e.g. C98765432100")
                 b_reg     = st.text_input("Registration No.", placeholder="e.g. 202201056789")
             with b2:
-                b_email   = st.text_input("Email (optional)", placeholder="e.g. accounts@xyz.com")
-                b_phone   = st.text_input("Phone (optional)", placeholder="e.g. 07-1234567")
+                b_email   = st.text_input("Email (optional)")
+                b_phone   = st.text_input("Phone (optional)")
                 b_address = st.text_area("Buyer Address *", placeholder="No. 5, Jalan XYZ, Johor Bahru", height=80)
 
             if st.button("💾 Save Buyer"):
@@ -336,37 +334,37 @@ def main():
             st.info("Memory is empty. No manual corrections recorded yet.")
 
     # ════════════════════════════════════════════════════════
-    # Page 5: Export JSON
+    # Page 5: Export JSON — reads from session state, no files
     # ════════════════════════════════════════════════════════
     elif menu == "📦 Export LHDN JSON":
         st.subheader("📦 Generate Submission Package (SDK Ready)")
 
-        opt_files = [f for f in os.listdir('.') if f.startswith("Optimized_") and f.endswith(".xlsx")]
+        df = st.session_state.get('processed_df')
 
-        if not opt_files:
-            st.warning("⚠️ No optimized files detected. Please process data in 【Scan & Correct Data】 first.")
+        if df is None:
+            st.warning("⚠️ No data found. Please scan your data in 【📂 Scan & Correct Data】 first.")
         else:
-            st.success(f"✅ {len(opt_files)} file(s) ready for export")
-            for f in opt_files:
-                st.caption(f"📄 {f}")
+            client_name = df['_client_name'].iloc[0] if '_client_name' in df.columns else "Unknown"
+            green_count = len(df[df['Export_Ready'] == "YES"])
+            st.success(f"✅ Ready to export: **{client_name}** — {green_count} approved items")
 
-        if st.button("Generate JSON Package"):
-            with st.spinner('Scanning data and calculating tax...'):
-                if st.session_state.kit.generate_lhdn_batch_json():
-                    st.success("✅ JSON package generated successfully!")
-                    if os.path.exists('lhdn_submission_batch.json'):
-                        with open('lhdn_submission_batch.json', 'r', encoding='utf-8') as f:
-                            json_data = f.read()
+            if st.button("Generate JSON Package"):
+                with st.spinner('Generating submission package...'):
+                    result = st.session_state.kit.generate_lhdn_batch_json(df)
+
+                    if result:
+                        json_str = json.dumps(result, indent=4, ensure_ascii=False)
+                        st.success(f"✅ Done! {result['header']['total_records']} records | Tax: RM {result['header']['total_tax_amount']:,.2f}")
                         st.download_button(
                             label="💾 Download JSON Submission Package",
-                            data=json_data,
+                            data=json_str,
                             file_name="LHDN_Final_Submission.json",
                             mime="application/json"
                         )
                         with st.expander("👁️ Preview JSON"):
-                            st.json(json.loads(json_data))
-                else:
-                    st.error("❌ Export failed: No items marked as YES (green) found.")
+                            st.json(result)
+                    else:
+                        st.error("❌ Export failed: No approved (green) items found.")
 
 if __name__ == "__main__":
     main()
