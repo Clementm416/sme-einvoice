@@ -1,0 +1,37 @@
+{
+    "Kedai Hardware ABC Sdn Bhd": {
+        "tin": "C12345678900",
+        "reg_no": "202301012345",
+        "sst_no": "W10-1234-12345678",
+        "msic": "46631",
+        "address": "No. 12, Jalan Harmonium 35/1, Taman Desa Tebrau, 81100 Johor Bahru, Johor"
+    },
+    "Restoran Mak Teh Enterprise": {
+        "tin": "C98765432100",
+        "reg_no": "202201056789",
+        "sst_no": "",
+        "msic": "56101",
+        "address": "No. 5, Jalan Datuk Sulaiman, Taman Century, 80250 Johor Bahru, Johor"
+    },
+    "Beauty Glam Studio": {
+        "tin": "C11223344550",
+        "reg_no": "202101034567",
+        "sst_no": "",
+        "msic": "96021",
+        "address": "Lot 3-15, Aeon Mall Tebrau City, 81100 Johor Bahru, Johor"
+    },
+    "Syarikat Runcit Makmur": {
+        "tin": "C55667788990",
+        "reg_no": "202001078901",
+        "sst_no": "",
+        "msic": "47111",
+        "address": "No. 88, Jalan Plentong, 81750 Masai, Johor"
+    },
+    "TechSolve IT Services": {
+        "tin": "C33445566770",
+        "reg_no": "202302009876",
+        "sst_no": "W10-5678-98765432",
+        "msic": "62010",
+        "address": "Suite 12-3, Menara JLand, Jalan Tun Abdul Razak, 80000 Johor Bahru, Johor"
+    }
+}

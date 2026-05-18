@@ -1,0 +1,5878 @@
+[
+    {
+        "code": "01111",
+        "desc": "Growing of maize",
+        "keywords": []
+    },
+    {
+        "code": "01112",
+        "desc": "Growing of leguminous crops",
+        "keywords": []
+    },
+    {
+        "code": "01113",
+        "desc": "Growing of oil seeds",
+        "keywords": []
+    },
+    {
+        "code": "01119",
+        "desc": "Growing of other cereals n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01120",
+        "desc": "Growing of paddy",
+        "keywords": []
+    },
+    {
+        "code": "01131",
+        "desc": "Growing of leafy or stem vegetables",
+        "keywords": []
+    },
+    {
+        "code": "01132",
+        "desc": "Growing of fruits bearing vegetables",
+        "keywords": []
+    },
+    {
+        "code": "01133",
+        "desc": "Growing of melons",
+        "keywords": []
+    },
+    {
+        "code": "01134",
+        "desc": "Growing of mushrooms and truffles",
+        "keywords": []
+    },
+    {
+        "code": "01135",
+        "desc": "Growing of vegetables seeds, except beet seeds",
+        "keywords": []
+    },
+    {
+        "code": "01136",
+        "desc": "Growing of other vegetables",
+        "keywords": []
+    },
+    {
+        "code": "01137",
+        "desc": "Growing of sugar beet",
+        "keywords": []
+    },
+    {
+        "code": "01138",
+        "desc": "Growing of roots, tubers, bulb or tuberous vegetables",
+        "keywords": []
+    },
+    {
+        "code": "01140",
+        "desc": "Growing of sugar cane",
+        "keywords": []
+    },
+    {
+        "code": "01150",
+        "desc": "Growing of tobacco",
+        "keywords": []
+    },
+    {
+        "code": "01160",
+        "desc": "Growing of fibre crops",
+        "keywords": []
+    },
+    {
+        "code": "01191",
+        "desc": "Growing of flowers",
+        "keywords": []
+    },
+    {
+        "code": "01192",
+        "desc": "Growing of flower seeds",
+        "keywords": []
+    },
+    {
+        "code": "01193",
+        "desc": "Growing of sago (rumbia)",
+        "keywords": []
+    },
+    {
+        "code": "01199",
+        "desc": "Growing of other non-perennial crops n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01210",
+        "desc": "Growing of grapes",
+        "keywords": []
+    },
+    {
+        "code": "01221",
+        "desc": "Growing of banana",
+        "keywords": []
+    },
+    {
+        "code": "01222",
+        "desc": "Growing of mango",
+        "keywords": []
+    },
+    {
+        "code": "01223",
+        "desc": "Growing of durian",
+        "keywords": []
+    },
+    {
+        "code": "01224",
+        "desc": "Growing of rambutan",
+        "keywords": []
+    },
+    {
+        "code": "01225",
+        "desc": "Growing of star fruit",
+        "keywords": []
+    },
+    {
+        "code": "01226",
+        "desc": "Growing of papaya",
+        "keywords": []
+    },
+    {
+        "code": "01227",
+        "desc": "Growing of pineapple",
+        "keywords": []
+    },
+    {
+        "code": "01228",
+        "desc": "Growing of pitaya (dragon fruit)",
+        "keywords": []
+    },
+    {
+        "code": "01229",
+        "desc": "Growing of other tropical and subtropical fruits n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01231",
+        "desc": "Growing of pomelo",
+        "keywords": []
+    },
+    {
+        "code": "01232",
+        "desc": "Growing of lemon and limes",
+        "keywords": []
+    },
+    {
+        "code": "01233",
+        "desc": "Growing of tangerines and mandarin",
+        "keywords": []
+    },
+    {
+        "code": "01239",
+        "desc": "Growing of other citrus fruits n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01241",
+        "desc": "Growing of guava",
+        "keywords": []
+    },
+    {
+        "code": "01249",
+        "desc": "Growing of other pome fruits and stones fruits n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01251",
+        "desc": "Growing of berries",
+        "keywords": []
+    },
+    {
+        "code": "01252",
+        "desc": "Growing of fruit seeds",
+        "keywords": []
+    },
+    {
+        "code": "01253",
+        "desc": "Growing of edible nuts",
+        "keywords": []
+    },
+    {
+        "code": "01259",
+        "desc": "Growing of other tree and bush fruits",
+        "keywords": []
+    },
+    {
+        "code": "01261",
+        "desc": "Growing of oil palm (estate)",
+        "keywords": []
+    },
+    {
+        "code": "01262",
+        "desc": "Growing of oil palm (smallholdings)",
+        "keywords": []
+    },
+    {
+        "code": "01263",
+        "desc": "Growing of coconut (estate and smallholdings)",
+        "keywords": []
+    },
+    {
+        "code": "01269",
+        "desc": "Growing of other oleaginous fruits n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01271",
+        "desc": "Growing of coffee",
+        "keywords": []
+    },
+    {
+        "code": "01272",
+        "desc": "Growing of tea",
+        "keywords": []
+    },
+    {
+        "code": "01273",
+        "desc": "Growing of cocoa",
+        "keywords": []
+    },
+    {
+        "code": "01279",
+        "desc": "Growing of other beverage crops n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01281",
+        "desc": "Growing of pepper (piper nigrum)",
+        "keywords": []
+    },
+    {
+        "code": "01282",
+        "desc": "Growing of chilies and pepper (capsicum spp.)",
+        "keywords": []
+    },
+    {
+        "code": "01283",
+        "desc": "Growing of nutmeg",
+        "keywords": []
+    },
+    {
+        "code": "01284",
+        "desc": "Growing of ginger",
+        "keywords": []
+    },
+    {
+        "code": "01285",
+        "desc": "Growing of plants used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes",
+        "keywords": []
+    },
+    {
+        "code": "01289",
+        "desc": "Growing of other spices and aromatic crops n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01291",
+        "desc": "Growing of rubber trees (estate)",
+        "keywords": []
+    },
+    {
+        "code": "01292",
+        "desc": "Growing of rubber trees (smallholdings)",
+        "keywords": []
+    },
+    {
+        "code": "01293",
+        "desc": "Growing of trees for extraction of sap",
+        "keywords": []
+    },
+    {
+        "code": "01294",
+        "desc": "Growing of nipa palm",
+        "keywords": []
+    },
+    {
+        "code": "01295",
+        "desc": "Growing of areca",
+        "keywords": []
+    },
+    {
+        "code": "01296",
+        "desc": "Growing of roselle",
+        "keywords": []
+    },
+    {
+        "code": "01299",
+        "desc": "Growing of other perennial crops n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01301",
+        "desc": "Growing of plants for planting",
+        "keywords": []
+    },
+    {
+        "code": "01302",
+        "desc": "Growing of plants for ornamental purposes",
+        "keywords": []
+    },
+    {
+        "code": "01303",
+        "desc": "Growing of live plants for bulbs, tubers and roots; cuttings and slips; mushroom spawn",
+        "keywords": []
+    },
+    {
+        "code": "01304",
+        "desc": "Operation of tree nurseries",
+        "keywords": []
+    },
+    {
+        "code": "01411",
+        "desc": "Raising, breeding and production of cattle or buffaloes",
+        "keywords": []
+    },
+    {
+        "code": "01412",
+        "desc": "Production of raw milk from cows or buffaloes",
+        "keywords": []
+    },
+    {
+        "code": "01413",
+        "desc": "Production of bovine semen",
+        "keywords": []
+    },
+    {
+        "code": "01420",
+        "desc": "Raising and breeding of horses, asses, mules or hinnes",
+        "keywords": []
+    },
+    {
+        "code": "01430",
+        "desc": "Raising and breeding of camels (dromedary) and camelids",
+        "keywords": []
+    },
+    {
+        "code": "01441",
+        "desc": "Raising, breeding and production of sheep and goats",
+        "keywords": []
+    },
+    {
+        "code": "01442",
+        "desc": "Production of raw sheep or goat’s milk",
+        "keywords": []
+    },
+    {
+        "code": "01443",
+        "desc": "Production of raw wool",
+        "keywords": []
+    },
+    {
+        "code": "01450",
+        "desc": "Raising, breeding and production of swine/pigs",
+        "keywords": []
+    },
+    {
+        "code": "01461",
+        "desc": "Raising, breeding and production of chicken, broiler",
+        "keywords": []
+    },
+    {
+        "code": "01462",
+        "desc": "Raising, breeding and production of ducks",
+        "keywords": []
+    },
+    {
+        "code": "01463",
+        "desc": "Raising, breeding and production of geese",
+        "keywords": []
+    },
+    {
+        "code": "01464",
+        "desc": "Raising, breeding and production of quails",
+        "keywords": []
+    },
+    {
+        "code": "01465",
+        "desc": "Raising and breeding of other poultry n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01466",
+        "desc": "Production of chicken eggs",
+        "keywords": []
+    },
+    {
+        "code": "01467",
+        "desc": "Production of duck eggs",
+        "keywords": []
+    },
+    {
+        "code": "01468",
+        "desc": "Production of other poultry eggs n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01469",
+        "desc": "Operation of poultry hatcheries",
+        "keywords": []
+    },
+    {
+        "code": "01491",
+        "desc": "Raising, breeding and production of semi-domesticated",
+        "keywords": []
+    },
+    {
+        "code": "01492",
+        "desc": "Production of fur skins, reptile or bird’s skin from ranching operation",
+        "keywords": []
+    },
+    {
+        "code": "01493",
+        "desc": "Operation of worm farms, land mollusc farms, snail farms",
+        "keywords": []
+    },
+    {
+        "code": "01494",
+        "desc": "Raising of silk worms and production of silk worm cocoons",
+        "keywords": []
+    },
+    {
+        "code": "01495",
+        "desc": "Bee keeping and production of honey and beeswax",
+        "keywords": []
+    },
+    {
+        "code": "01496",
+        "desc": "Raising and breeding of pet animals",
+        "keywords": []
+    },
+    {
+        "code": "01497",
+        "desc": "Raising and breeding of swiflet",
+        "keywords": []
+    },
+    {
+        "code": "01499",
+        "desc": "Raising of diverse/other animals n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "01500",
+        "desc": "Mixed farming",
+        "keywords": []
+    },
+    {
+        "code": "01610",
+        "desc": "Agricultural activities for crops production on a fee or contract basis",
+        "keywords": []
+    },
+    {
+        "code": "01620",
+        "desc": "Agricultural activities for animal production on a fee or contract basis",
+        "keywords": []
+    },
+    {
+        "code": "01631",
+        "desc": "Preparation of crops for primary markets",
+        "keywords": []
+    },
+    {
+        "code": "01632",
+        "desc": "Preparation of tobacco leaves",
+        "keywords": []
+    },
+    {
+        "code": "01633",
+        "desc": "Preparation of cocoa beans",
+        "keywords": []
+    },
+    {
+        "code": "01634",
+        "desc": "Sun-drying of fruits and vegetables",
+        "keywords": []
+    },
+    {
+        "code": "01640",
+        "desc": "Seed processing for propagation",
+        "keywords": []
+    },
+    {
+        "code": "01701",
+        "desc": "Hunting and trapping on a commercial basis",
+        "keywords": []
+    },
+    {
+        "code": "01702",
+        "desc": "Taking of animals (dead or alive)",
+        "keywords": []
+    },
+    {
+        "code": "02101",
+        "desc": "Planting, replanting, transplanting, thinning and conserving of forests and timber tracts",
+        "keywords": []
+    },
+    {
+        "code": "02102",
+        "desc": "Growing of coppice, pulpwood and fire wood",
+        "keywords": []
+    },
+    {
+        "code": "02103",
+        "desc": "Operation of forest tree nurseries",
+        "keywords": []
+    },
+    {
+        "code": "02104",
+        "desc": "Collection and raising of wildings (peat swamp forest tree species)",
+        "keywords": []
+    },
+    {
+        "code": "02105",
+        "desc": "Forest plantation",
+        "keywords": []
+    },
+    {
+        "code": "02201",
+        "desc": "Production of round wood for forest-based manufacturing industries",
+        "keywords": []
+    },
+    {
+        "code": "02202",
+        "desc": "Production of round wood used in an unprocessed form",
+        "keywords": []
+    },
+    {
+        "code": "02203",
+        "desc": "Production of charcoal in the forest (using traditional methods)",
+        "keywords": []
+    },
+    {
+        "code": "02204",
+        "desc": "Rubber wood logging",
+        "keywords": []
+    },
+    {
+        "code": "02301",
+        "desc": "Collection of rattan, bamboo",
+        "keywords": []
+    },
+    {
+        "code": "02302",
+        "desc": "Bird’s nest collection",
+        "keywords": []
+    },
+    {
+        "code": "02303",
+        "desc": "Wild sago palm collection",
+        "keywords": []
+    },
+    {
+        "code": "02309",
+        "desc": "Gathering of non-wood forest products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "02401",
+        "desc": "Carrying out part of the forestry and forest plantation operation on a fee or contract basis for forestry service activities",
+        "keywords": []
+    },
+    {
+        "code": "02402",
+        "desc": "Carrying out part of the forestry operation on a fee or contract basis for logging service activities",
+        "keywords": []
+    },
+    {
+        "code": "03111",
+        "desc": "Fishing on a commercial basis in ocean and coastal waters",
+        "keywords": []
+    },
+    {
+        "code": "03112",
+        "desc": "Collection of marine crustaceans and molluscs",
+        "keywords": []
+    },
+    {
+        "code": "03113",
+        "desc": "Taking of aquatic animals: sea squirts, tunicates, sea urchins",
+        "keywords": []
+    },
+    {
+        "code": "03114",
+        "desc": "Activities of vessels engaged both in fishing and in processing and preserving of fish",
+        "keywords": []
+    },
+    {
+        "code": "03115",
+        "desc": "Gathering of other marine organisms and materials (natural pearls, sponges, coral and algae)",
+        "keywords": []
+    },
+    {
+        "code": "03119",
+        "desc": "Marine fishing n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "03121",
+        "desc": "Fishing on a commercial basis in inland waters",
+        "keywords": []
+    },
+    {
+        "code": "03122",
+        "desc": "Taking of freshwater crustaceans and molluscs",
+        "keywords": []
+    },
+    {
+        "code": "03123",
+        "desc": "Taking of freshwater aquatic animals",
+        "keywords": []
+    },
+    {
+        "code": "03124",
+        "desc": "Gathering of freshwater flora and fauna",
+        "keywords": []
+    },
+    {
+        "code": "03129",
+        "desc": "Freshwater fishing n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "03211",
+        "desc": "Fish farming in sea water",
+        "keywords": []
+    },
+    {
+        "code": "03212",
+        "desc": "Production of bivalve spat (oyster, mussel), lobster lings, shrimp post-larvae, fish fry and fingerlings",
+        "keywords": []
+    },
+    {
+        "code": "03213",
+        "desc": "Growing of laver and other edible seaweeds",
+        "keywords": []
+    },
+    {
+        "code": "03214",
+        "desc": "Culture of crustaceans, bivalves, other molluscs and other aquatic animals in sea water",
+        "keywords": []
+    },
+    {
+        "code": "03215",
+        "desc": "Aquaculture activities in brackish water",
+        "keywords": []
+    },
+    {
+        "code": "03216",
+        "desc": "Aquaculture activities in salt water filled tanks or reservoirs",
+        "keywords": []
+    },
+    {
+        "code": "03217",
+        "desc": "Operation of hatcheries (marine)",
+        "keywords": []
+    },
+    {
+        "code": "03218",
+        "desc": "Operation of marine worm farms for fish feed",
+        "keywords": []
+    },
+    {
+        "code": "03219",
+        "desc": "Marine aquaculture n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "03221",
+        "desc": "Fish farming in freshwater",
+        "keywords": []
+    },
+    {
+        "code": "03222",
+        "desc": "Shrimp farming in freshwater",
+        "keywords": []
+    },
+    {
+        "code": "03223",
+        "desc": "Culture of freshwater crustaceans, bivalves, other molluscs and other aquatic animals",
+        "keywords": []
+    },
+    {
+        "code": "03224",
+        "desc": "Operation of hatcheries (freshwater)",
+        "keywords": []
+    },
+    {
+        "code": "03225",
+        "desc": "Farming of frogs",
+        "keywords": []
+    },
+    {
+        "code": "03229",
+        "desc": "Freshwater aquaculture n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "05100",
+        "desc": "Mining of hard coal",
+        "keywords": []
+    },
+    {
+        "code": "05200",
+        "desc": "Mining of lignite (brown coal)",
+        "keywords": []
+    },
+    {
+        "code": "06101",
+        "desc": "Extraction of crude petroleum oils",
+        "keywords": []
+    },
+    {
+        "code": "06102",
+        "desc": "Extraction of bituminous or oil shale and tar sand",
+        "keywords": []
+    },
+    {
+        "code": "06103",
+        "desc": "Production of crude petroleum from bituminous shale and sand",
+        "keywords": []
+    },
+    {
+        "code": "06104",
+        "desc": "Processes to obtain crude oils",
+        "keywords": []
+    },
+    {
+        "code": "06201",
+        "desc": "Production of crude gaseous hydrocarbon (natural gas)",
+        "keywords": []
+    },
+    {
+        "code": "06202",
+        "desc": "Extraction of condensates",
+        "keywords": []
+    },
+    {
+        "code": "06203",
+        "desc": "Draining and separation of liquid hydrocarbon fractions",
+        "keywords": []
+    },
+    {
+        "code": "06204",
+        "desc": "Gas desulphurization",
+        "keywords": []
+    },
+    {
+        "code": "06205",
+        "desc": "Mining of hydrocarbon liquids, obtain through liquefaction or pyrolysis",
+        "keywords": []
+    },
+    {
+        "code": "07101",
+        "desc": "Mining of ores valued chiefly for iron content",
+        "keywords": []
+    },
+    {
+        "code": "07102",
+        "desc": "Beneficiation and agglomeration of iron ores",
+        "keywords": []
+    },
+    {
+        "code": "07210",
+        "desc": "Mining of uranium and thorium ores",
+        "keywords": []
+    },
+    {
+        "code": "07291",
+        "desc": "Mining of tin ores",
+        "keywords": []
+    },
+    {
+        "code": "07292",
+        "desc": "Mining of copper",
+        "keywords": []
+    },
+    {
+        "code": "07293",
+        "desc": "Mining of bauxite (aluminium)",
+        "keywords": []
+    },
+    {
+        "code": "07294",
+        "desc": "Mining of ilmenite",
+        "keywords": []
+    },
+    {
+        "code": "07295",
+        "desc": "Mining of gold",
+        "keywords": []
+    },
+    {
+        "code": "07296",
+        "desc": "Mining of silver",
+        "keywords": []
+    },
+    {
+        "code": "07297",
+        "desc": "Mining of platinum",
+        "keywords": []
+    },
+    {
+        "code": "07298",
+        "desc": "Amang retreatment",
+        "keywords": []
+    },
+    {
+        "code": "07299",
+        "desc": "Mining of other non-ferrous metal ores n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "08101",
+        "desc": "Quarrying, rough trimming and sawing of monumental and building stone such as marble, granite (dimension stone), sandstone",
+        "keywords": []
+    },
+    {
+        "code": "08102",
+        "desc": "Quarrying, crushing and breaking of limestone",
+        "keywords": []
+    },
+    {
+        "code": "08103",
+        "desc": "Mining of gypsum and anhydrite",
+        "keywords": []
+    },
+    {
+        "code": "08104",
+        "desc": "Mining of chalk and uncalcined dolomite",
+        "keywords": []
+    },
+    {
+        "code": "08105",
+        "desc": "Extraction and dredging of industrial sand, sand for construction and gravel",
+        "keywords": []
+    },
+    {
+        "code": "08106",
+        "desc": "Breaking and crushing of stone and gravel",
+        "keywords": []
+    },
+    {
+        "code": "08107",
+        "desc": "Quarrying of sand",
+        "keywords": []
+    },
+    {
+        "code": "08108",
+        "desc": "Mining of clays, refractory clays and kaolin",
+        "keywords": []
+    },
+    {
+        "code": "08109",
+        "desc": "Quarrying, crushing and breaking of granite",
+        "keywords": []
+    },
+    {
+        "code": "08911",
+        "desc": "Mining of natural phosphates",
+        "keywords": []
+    },
+    {
+        "code": "08912",
+        "desc": "Mining of natural potassium salts",
+        "keywords": []
+    },
+    {
+        "code": "08913",
+        "desc": "Mining of native sulphur",
+        "keywords": []
+    },
+    {
+        "code": "08914",
+        "desc": "Extraction and preparation of pyrites and pyrrhotite, except roasting",
+        "keywords": []
+    },
+    {
+        "code": "08915",
+        "desc": "Mining of natural barium sulphate and carbonate (barytes and witherite)",
+        "keywords": []
+    },
+    {
+        "code": "08916",
+        "desc": "Mining of natural borates, natural magnesium sulphates (kieserite)",
+        "keywords": []
+    },
+    {
+        "code": "08917",
+        "desc": "Mining of earth colours, fluorspar and other minerals valued chiefly as a source of chemicals",
+        "keywords": []
+    },
+    {
+        "code": "08918",
+        "desc": "Guano mining",
+        "keywords": []
+    },
+    {
+        "code": "08921",
+        "desc": "Peat digging",
+        "keywords": []
+    },
+    {
+        "code": "08922",
+        "desc": "Peat agglomeration",
+        "keywords": []
+    },
+    {
+        "code": "08923",
+        "desc": "Preparation of peat to improve quality or facilitate transport or storage",
+        "keywords": []
+    },
+    {
+        "code": "08931",
+        "desc": "Extraction of salt from underground",
+        "keywords": []
+    },
+    {
+        "code": "08932",
+        "desc": "Salt production by evaporation of sea water or other saline waters",
+        "keywords": []
+    },
+    {
+        "code": "08933",
+        "desc": "Crushing, purification and refining of salt by the producer",
+        "keywords": []
+    },
+    {
+        "code": "08991",
+        "desc": "Mining and quarrying of abrasive materials",
+        "keywords": []
+    },
+    {
+        "code": "08992",
+        "desc": "Mining and quarrying of asbestos",
+        "keywords": []
+    },
+    {
+        "code": "08993",
+        "desc": "Mining and quarrying of siliceous fossil meals",
+        "keywords": []
+    },
+    {
+        "code": "08994",
+        "desc": "Mining and quarrying of natural graphite",
+        "keywords": []
+    },
+    {
+        "code": "08995",
+        "desc": "Mining and quarrying of steatite (talc)",
+        "keywords": []
+    },
+    {
+        "code": "08996",
+        "desc": "Mining and quarrying of gemstones",
+        "keywords": []
+    },
+    {
+        "code": "08999",
+        "desc": "Other mining and quarrying n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "09101",
+        "desc": "Oil and gas extraction service activities provided on a fee or contract basis",
+        "keywords": []
+    },
+    {
+        "code": "09102",
+        "desc": "Oil and gas field fire fighting services",
+        "keywords": []
+    },
+    {
+        "code": "09900",
+        "desc": "Support activities for other mining and quarrying",
+        "keywords": []
+    },
+    {
+        "code": "10101",
+        "desc": "Processing and preserving of meat and production of meat products",
+        "keywords": []
+    },
+    {
+        "code": "10102",
+        "desc": "Processing and preserving of poultry and poultry products",
+        "keywords": []
+    },
+    {
+        "code": "10103",
+        "desc": "Production of hides and skins originating from slaughterhouses",
+        "keywords": []
+    },
+    {
+        "code": "10104",
+        "desc": "Operation of slaughterhouses engaged in killing, houses dressing or packing meat",
+        "keywords": []
+    },
+    {
+        "code": "10109",
+        "desc": "Processing and preserving of meat n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "10201",
+        "desc": "Canning of fish, crustaceans and mollusks",
+        "keywords": []
+    },
+    {
+        "code": "10202",
+        "desc": "Processing, curing and preserving of fish, crustacean and mollusks",
+        "keywords": []
+    },
+    {
+        "code": "10203",
+        "desc": "Production of fish meals for human consumption or animal feed",
+        "keywords": []
+    },
+    {
+        "code": "10204",
+        "desc": "Production of keropok including keropok lekor",
+        "keywords": []
+    },
+    {
+        "code": "10205",
+        "desc": "Processing of seaweed",
+        "keywords": []
+    },
+    {
+        "code": "10301",
+        "desc": "Manufacture of fruits and vegetables food products",
+        "keywords": []
+    },
+    {
+        "code": "10302",
+        "desc": "Manufacture of fruit and vegetables juices",
+        "keywords": []
+    },
+    {
+        "code": "10303",
+        "desc": "Manufacture of pineapple canning",
+        "keywords": []
+    },
+    {
+        "code": "10304",
+        "desc": "Manufacture of jams, marmalades and table jellies",
+        "keywords": []
+    },
+    {
+        "code": "10305",
+        "desc": "Manufacture of nuts and nut products",
+        "keywords": []
+    },
+    {
+        "code": "10306",
+        "desc": "Manufacture of bean curd products",
+        "keywords": []
+    },
+    {
+        "code": "10401",
+        "desc": "Manufacture of crude palm oil",
+        "keywords": []
+    },
+    {
+        "code": "10402",
+        "desc": "Manufacture of refined palm oils",
+        "keywords": []
+    },
+    {
+        "code": "10403",
+        "desc": "Manufacture of palm kernel oils",
+        "keywords": []
+    },
+    {
+        "code": "10404",
+        "desc": "Manufacture of crude and refined vegetable oil",
+        "keywords": []
+    },
+    {
+        "code": "10405",
+        "desc": "Manufacture of coconut oil",
+        "keywords": []
+    },
+    {
+        "code": "10406",
+        "desc": "Manufacture of compound cooking fats",
+        "keywords": []
+    },
+    {
+        "code": "10407",
+        "desc": "Manufacture of animal oils and fats",
+        "keywords": []
+    },
+    {
+        "code": "10501",
+        "desc": "Manufacture of ice cream and other edible ice such as sorbet",
+        "keywords": []
+    },
+    {
+        "code": "10502",
+        "desc": "Manufacture of condensed, powdered and evaporated milk",
+        "keywords": []
+    },
+    {
+        "code": "10509",
+        "desc": "Manufacture of other dairy products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "10611",
+        "desc": "Rice milling",
+        "keywords": []
+    },
+    {
+        "code": "10612",
+        "desc": "Provision of milling services",
+        "keywords": []
+    },
+    {
+        "code": "10613",
+        "desc": "Flour milling",
+        "keywords": []
+    },
+    {
+        "code": "10619",
+        "desc": "Manufacture of grain mill products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "10621",
+        "desc": "Manufacture of starches and starch products",
+        "keywords": []
+    },
+    {
+        "code": "10622",
+        "desc": "Manufacture of glucose, glucose syrup, maltose, inulin",
+        "keywords": []
+    },
+    {
+        "code": "10623",
+        "desc": "Manufacture of sago and tapioca flour/products",
+        "keywords": []
+    },
+    {
+        "code": "10711",
+        "desc": "Manufacture of biscuits and cookies",
+        "keywords": []
+    },
+    {
+        "code": "10712",
+        "desc": "Manufacture of bread, cakes and other bakery products",
+        "keywords": []
+    },
+    {
+        "code": "10713",
+        "desc": "Manufacture of snack products",
+        "keywords": []
+    },
+    {
+        "code": "10714",
+        "desc": "Manufacture of frozen bakery products",
+        "keywords": []
+    },
+    {
+        "code": "10721",
+        "desc": "Manufacture of sugar",
+        "keywords": []
+    },
+    {
+        "code": "10722",
+        "desc": "Manufacture of sugar products",
+        "keywords": []
+    },
+    {
+        "code": "10731",
+        "desc": "Manufacture of cocoa products",
+        "keywords": []
+    },
+    {
+        "code": "10732",
+        "desc": "Manufacture of chocolate and chocolate products",
+        "keywords": []
+    },
+    {
+        "code": "10733",
+        "desc": "Manufacture of sugar confectionery",
+        "keywords": []
+    },
+    {
+        "code": "10741",
+        "desc": "Manufacture of meehoon, noodles and other related products",
+        "keywords": []
+    },
+    {
+        "code": "10742",
+        "desc": "Manufacture of pastas",
+        "keywords": []
+    },
+    {
+        "code": "10750",
+        "desc": "Manufacture of prepared meals and dishes",
+        "keywords": []
+    },
+    {
+        "code": "10791",
+        "desc": "Manufacture of coffee",
+        "keywords": []
+    },
+    {
+        "code": "10792",
+        "desc": "Manufacture of tea",
+        "keywords": []
+    },
+    {
+        "code": "10793",
+        "desc": "Manufacture of sauces and condiments",
+        "keywords": []
+    },
+    {
+        "code": "10794",
+        "desc": "Manufacture of spices and curry powder",
+        "keywords": []
+    },
+    {
+        "code": "10795",
+        "desc": "Manufacture of egg products",
+        "keywords": []
+    },
+    {
+        "code": "10799",
+        "desc": "Manufacture of other food products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "10800",
+        "desc": "Manufacture of prepared animal feeds",
+        "keywords": []
+    },
+    {
+        "code": "11010",
+        "desc": "Distilling, rectifying and blending of spirits",
+        "keywords": []
+    },
+    {
+        "code": "11020",
+        "desc": "Manufacture of wines",
+        "keywords": []
+    },
+    {
+        "code": "11030",
+        "desc": "Manufacture of malt liquors and malt",
+        "keywords": []
+    },
+    {
+        "code": "11041",
+        "desc": "Manufacture of soft drinks",
+        "keywords": []
+    },
+    {
+        "code": "11042",
+        "desc": "Production of natural mineral waters and other bottled waters",
+        "keywords": []
+    },
+    {
+        "code": "12000",
+        "desc": "Manufacture of tobacco products",
+        "keywords": []
+    },
+    {
+        "code": "13110",
+        "desc": "Preparation and spinning of textile fibres",
+        "keywords": []
+    },
+    {
+        "code": "13120",
+        "desc": "Weaving of textiles",
+        "keywords": []
+    },
+    {
+        "code": "13131",
+        "desc": "Batik making",
+        "keywords": []
+    },
+    {
+        "code": "13132",
+        "desc": "Dyeing, bleaching, printing and finishing of yarns and fabrics",
+        "keywords": []
+    },
+    {
+        "code": "13139",
+        "desc": "Other finishing textile",
+        "keywords": []
+    },
+    {
+        "code": "13910",
+        "desc": "Manufacture of knitted and crocheted fabrics",
+        "keywords": []
+    },
+    {
+        "code": "13921",
+        "desc": "Manufacture of made-up articles of any textile materials, including of knitted or crocheted fabrics",
+        "keywords": []
+    },
+    {
+        "code": "13922",
+        "desc": "Manufacture of made-up furnishing articles",
+        "keywords": []
+    },
+    {
+        "code": "13930",
+        "desc": "Manufacture of carpets and rugs",
+        "keywords": []
+    },
+    {
+        "code": "13940",
+        "desc": "Manufacture of cordage, rope, twine and netting",
+        "keywords": []
+    },
+    {
+        "code": "13990",
+        "desc": "Manufacture of other textiles n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "14101",
+        "desc": "Manufacture of specific wearing apparel",
+        "keywords": []
+    },
+    {
+        "code": "14102",
+        "desc": "Manufacture of clothings",
+        "keywords": []
+    },
+    {
+        "code": "14103",
+        "desc": "Custom tailoring",
+        "keywords": []
+    },
+    {
+        "code": "14109",
+        "desc": "Manufacture of other clothing accessories",
+        "keywords": []
+    },
+    {
+        "code": "14200",
+        "desc": "Manufacture of articles made of fur skins",
+        "keywords": []
+    },
+    {
+        "code": "14300",
+        "desc": "Manufacture of knitted and crocheted apparel",
+        "keywords": []
+    },
+    {
+        "code": "15110",
+        "desc": "Tanning and dressing of leather; dressing and dyeing of fur",
+        "keywords": []
+    },
+    {
+        "code": "15120",
+        "desc": "Manufacture of luggage, handbags and the like, saddlery and harness",
+        "keywords": []
+    },
+    {
+        "code": "15201",
+        "desc": "Manufacture of leather footwear",
+        "keywords": []
+    },
+    {
+        "code": "15202",
+        "desc": "Manufacture of plastic footwear",
+        "keywords": []
+    },
+    {
+        "code": "15203",
+        "desc": "Manufacture of rubber footwear",
+        "keywords": []
+    },
+    {
+        "code": "15209",
+        "desc": "Manufacture of other footwear n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "16100",
+        "desc": "Sawmilling and planning of wood",
+        "keywords": []
+    },
+    {
+        "code": "16211",
+        "desc": "Manufacture of veneer sheets and plywood",
+        "keywords": []
+    },
+    {
+        "code": "16212",
+        "desc": "Manufacture of particle board and fibreboard",
+        "keywords": []
+    },
+    {
+        "code": "16221",
+        "desc": "Manufacture of builders carpentry",
+        "keywords": []
+    },
+    {
+        "code": "16222",
+        "desc": "Manufacture of joinery wood products",
+        "keywords": []
+    },
+    {
+        "code": "16230",
+        "desc": "Manufacture of wooden containers",
+        "keywords": []
+    },
+    {
+        "code": "16291",
+        "desc": "Manufacture of wood charcoal",
+        "keywords": []
+    },
+    {
+        "code": "16292",
+        "desc": "Manufacture of other products of wood, cane, articles of cork, straw and plaiting materials",
+        "keywords": []
+    },
+    {
+        "code": "17010",
+        "desc": "Manufacture of pulp, paper and paperboard",
+        "keywords": []
+    },
+    {
+        "code": "17020",
+        "desc": "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard",
+        "keywords": []
+    },
+    {
+        "code": "17091",
+        "desc": "Manufacture of envelopes and letter-card",
+        "keywords": []
+    },
+    {
+        "code": "17092",
+        "desc": "Manufacture of household and personal hygiene paper",
+        "keywords": []
+    },
+    {
+        "code": "17093",
+        "desc": "Manufacture of gummed or adhesive paper in strips or rolls and labels and wall paper",
+        "keywords": []
+    },
+    {
+        "code": "17094",
+        "desc": "Manufacture of effigies, funeral paper goods, joss papers",
+        "keywords": []
+    },
+    {
+        "code": "17099",
+        "desc": "Manufacture of other articles of paper and paperboard n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "18110",
+        "desc": "Printing",
+        "keywords": []
+    },
+    {
+        "code": "18120",
+        "desc": "Service activities related to printing",
+        "keywords": []
+    },
+    {
+        "code": "18200",
+        "desc": "Reproduction of recorded media",
+        "keywords": []
+    },
+    {
+        "code": "19100",
+        "desc": "Manufacture of coke oven products",
+        "keywords": []
+    },
+    {
+        "code": "19201",
+        "desc": "Manufacture of refined petroleum products",
+        "keywords": []
+    },
+    {
+        "code": "19202",
+        "desc": "Manufacture of bio-diesel products",
+        "keywords": []
+    },
+    {
+        "code": "20111",
+        "desc": "Manufacture of liquefied or compressed inorganic industrial or medical gases",
+        "keywords": []
+    },
+    {
+        "code": "20112",
+        "desc": "Manufacture of basic organic chemicals",
+        "keywords": []
+    },
+    {
+        "code": "20113",
+        "desc": "Manufacture of inorganic compounds",
+        "keywords": []
+    },
+    {
+        "code": "20119",
+        "desc": "Manufacture of other basic chemicals n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "20121",
+        "desc": "Manufacture of fertilizers",
+        "keywords": []
+    },
+    {
+        "code": "20129",
+        "desc": "Manufacture of associated nitrogen products",
+        "keywords": []
+    },
+    {
+        "code": "20131",
+        "desc": "Manufacture of plastic in primary forms",
+        "keywords": []
+    },
+    {
+        "code": "20132",
+        "desc": "Manufacture of synthetic rubber in primary forms: synthetic rubber, factice",
+        "keywords": []
+    },
+    {
+        "code": "20133",
+        "desc": "Manufacture of mixtures of synthetic rubber and natural rubber or rubber - like gums",
+        "keywords": []
+    },
+    {
+        "code": "20210",
+        "desc": "Manufacture of pesticides and other agrochemical products",
+        "keywords": []
+    },
+    {
+        "code": "20221",
+        "desc": "Manufacture of paints, varnishes and similar coatings ink and mastics",
+        "keywords": []
+    },
+    {
+        "code": "20222",
+        "desc": "Manufacture of printing ink",
+        "keywords": []
+    },
+    {
+        "code": "20231",
+        "desc": "Manufacture of soap and detergents, cleaning and polishing preparations",
+        "keywords": []
+    },
+    {
+        "code": "20232",
+        "desc": "Manufacture of perfumes and toilet preparations",
+        "keywords": []
+    },
+    {
+        "code": "20291",
+        "desc": "Manufacture of photographic plates, films, sensitized paper and other sensitized unexposed materials",
+        "keywords": []
+    },
+    {
+        "code": "20292",
+        "desc": "Manufacture of writing and drawing ink",
+        "keywords": []
+    },
+    {
+        "code": "20299",
+        "desc": "Manufacture of other chemical products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "20300",
+        "desc": "Manufacture of man-made fibres",
+        "keywords": []
+    },
+    {
+        "code": "21001",
+        "desc": "Manufacture of medicinal active substances to be used for their pharmacological properties in the manufacture of medicaments",
+        "keywords": []
+    },
+    {
+        "code": "21002",
+        "desc": "Processing of blood",
+        "keywords": []
+    },
+    {
+        "code": "21003",
+        "desc": "Manufacture of medicaments",
+        "keywords": []
+    },
+    {
+        "code": "21004",
+        "desc": "Manufacture of chemical contraceptive products",
+        "keywords": []
+    },
+    {
+        "code": "21005",
+        "desc": "Manufacture of medical diagnostic preparation",
+        "keywords": []
+    },
+    {
+        "code": "21006",
+        "desc": "Manufacture of radioactive in-vivo diagnostic substances",
+        "keywords": []
+    },
+    {
+        "code": "21007",
+        "desc": "Manufacture of biotech pharmaceuticals",
+        "keywords": []
+    },
+    {
+        "code": "21009",
+        "desc": "Manufacture of other pharmaceuticals, medicinal chemical and botanical products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "22111",
+        "desc": "Manufacture of rubber tyres for vehicles",
+        "keywords": []
+    },
+    {
+        "code": "22112",
+        "desc": "Manufacture of interchangeable tyre treads and retreading rubber tyres",
+        "keywords": []
+    },
+    {
+        "code": "22191",
+        "desc": "Manufacture of other products of natural or synthetic rubber, unvulcanized, vulcanized or hardened",
+        "keywords": []
+    },
+    {
+        "code": "22192",
+        "desc": "Manufacture of rubber gloves",
+        "keywords": []
+    },
+    {
+        "code": "22193",
+        "desc": "Rubber remilling and latex processing",
+        "keywords": []
+    },
+    {
+        "code": "22199",
+        "desc": "Manufacture of other rubber products n.e.c",
+        "keywords": []
+    },
+    {
+        "code": "22201",
+        "desc": "Manufacture of semi-manufactures of plastic products",
+        "keywords": []
+    },
+    {
+        "code": "22202",
+        "desc": "Manufacture of finished plastic products",
+        "keywords": []
+    },
+    {
+        "code": "22203",
+        "desc": "Manufacture of plastic articles for the packing of goods",
+        "keywords": []
+    },
+    {
+        "code": "22204",
+        "desc": "Manufacture of builders plastics ware",
+        "keywords": []
+    },
+    {
+        "code": "22205",
+        "desc": "Manufacture of plastic tableware, kitchenware and toilet articles",
+        "keywords": []
+    },
+    {
+        "code": "22209",
+        "desc": "Manufacture of diverse plastic products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "23101",
+        "desc": "Manufacture of flat glass, including wired, coloured or tinted flat glass",
+        "keywords": []
+    },
+    {
+        "code": "23102",
+        "desc": "Manufacture of laboratory, hygienic or pharmaceutical glassware",
+        "keywords": [
+            "ssw"
+        ]
+    },
+    {
+        "code": "23109",
+        "desc": "Manufacture of other glass products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "23911",
+        "desc": "Manufacture of refractory mortars and concretes",
+        "keywords": []
+    },
+    {
+        "code": "23912",
+        "desc": "Manufacture of refractory ceramic goods",
+        "keywords": []
+    },
+    {
+        "code": "23921",
+        "desc": "Manufacture of non-refractory ceramic",
+        "keywords": []
+    },
+    {
+        "code": "23929",
+        "desc": "Manufacture of other clay building materials",
+        "keywords": []
+    },
+    {
+        "code": "23930",
+        "desc": "Manufacture of other porcelain and ceramic products",
+        "keywords": []
+    },
+    {
+        "code": "23941",
+        "desc": "Manufacture of hydraulic cement",
+        "keywords": []
+    },
+    {
+        "code": "23942",
+        "desc": "Manufacture of lime and plaster",
+        "keywords": []
+    },
+    {
+        "code": "23951",
+        "desc": "Manufacture of ready-mix and dry-mix concrete and mortars",
+        "keywords": []
+    },
+    {
+        "code": "23952",
+        "desc": "Manufacture of precast concrete, cement or artificial stone articles for use in construction",
+        "keywords": []
+    },
+    {
+        "code": "23953",
+        "desc": "Manufacture of prefabricated structural components for building or civil engineering of cement, concrete or artificial stone",
+        "keywords": []
+    },
+    {
+        "code": "23959",
+        "desc": "Manufacture of other articles of concrete, cement and plaster n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "23960",
+        "desc": "Cutting, shaping and finishing of stone",
+        "keywords": []
+    },
+    {
+        "code": "23990",
+        "desc": "Manufacture of other non-metallic mineral products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "24101",
+        "desc": "Production of pig iron and spiegeleisen in pigs, blocks or other primary forms",
+        "keywords": []
+    },
+    {
+        "code": "24102",
+        "desc": "Production of bars and rods of stainless steel or other alloy steel",
+        "keywords": []
+    },
+    {
+        "code": "24103",
+        "desc": "Manufacture of seamless tubes, by hot rolling, hot extrusion or hot drawing, or by cold drawing or cold rolling",
+        "keywords": []
+    },
+    {
+        "code": "24104",
+        "desc": "Manufacture of steel tube fittings",
+        "keywords": []
+    },
+    {
+        "code": "24109",
+        "desc": "Manufacture of other basic iron and steel products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "24201",
+        "desc": "Tin smelting",
+        "keywords": []
+    },
+    {
+        "code": "24202",
+        "desc": "Production of aluminium from alumina",
+        "keywords": []
+    },
+    {
+        "code": "24209",
+        "desc": "Manufacture of other basic precious and other non-ferrous metals n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "24311",
+        "desc": "Casting of iron",
+        "keywords": []
+    },
+    {
+        "code": "24312",
+        "desc": "Casting of steel",
+        "keywords": []
+    },
+    {
+        "code": "24320",
+        "desc": "Casting of non-ferrous metals",
+        "keywords": []
+    },
+    {
+        "code": "25111",
+        "desc": "Manufacture of industrial frameworks in metal",
+        "keywords": []
+    },
+    {
+        "code": "25112",
+        "desc": "Manufacture of prefabricated buildings mainly of metal",
+        "keywords": []
+    },
+    {
+        "code": "25113",
+        "desc": "Manufacture of metal doors, windows and their frames, shutters and gates",
+        "keywords": []
+    },
+    {
+        "code": "25119",
+        "desc": "Manufacture of other structural metal products",
+        "keywords": []
+    },
+    {
+        "code": "25120",
+        "desc": "Manufacture of tanks, reservoirs and containers of metal",
+        "keywords": []
+    },
+    {
+        "code": "25130",
+        "desc": "Manufacture of steam generators, except central heating hot water boilers",
+        "keywords": []
+    },
+    {
+        "code": "25200",
+        "desc": "Manufacture of weapons and ammunition",
+        "keywords": []
+    },
+    {
+        "code": "25910",
+        "desc": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy",
+        "keywords": []
+    },
+    {
+        "code": "25920",
+        "desc": "Treatment and coating of metals; machining",
+        "keywords": []
+    },
+    {
+        "code": "25930",
+        "desc": "Manufacture of cutlery, hand tools and general hardware",
+        "keywords": []
+    },
+    {
+        "code": "25991",
+        "desc": "Manufacture of tins and cans for food products, collapsible tubes and boxes",
+        "keywords": []
+    },
+    {
+        "code": "25992",
+        "desc": "Manufacture of metal cable, plaited bands and similar articles",
+        "keywords": []
+    },
+    {
+        "code": "25993",
+        "desc": "Manufacture of bolts, screws, nuts and similar threaded products",
+        "keywords": []
+    },
+    {
+        "code": "25994",
+        "desc": "Manufacture of metal household articles",
+        "keywords": []
+    },
+    {
+        "code": "25999",
+        "desc": "Manufacture of any other fabricated metal products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "26101",
+        "desc": "Manufacture of diodes, transistors and similar semiconductor devices",
+        "keywords": []
+    },
+    {
+        "code": "26102",
+        "desc": "Manufacture electronic integrated circuits micro assemblies",
+        "keywords": []
+    },
+    {
+        "code": "26103",
+        "desc": "Manufacture of electrical capacitors and resistors",
+        "keywords": []
+    },
+    {
+        "code": "26104",
+        "desc": "Manufacture of printed circuit boards",
+        "keywords": []
+    },
+    {
+        "code": "26105",
+        "desc": "Manufacture of display components",
+        "keywords": []
+    },
+    {
+        "code": "26109",
+        "desc": "Manufacture of other components for electronic applications",
+        "keywords": []
+    },
+    {
+        "code": "26201",
+        "desc": "Manufacture of computers",
+        "keywords": []
+    },
+    {
+        "code": "26202",
+        "desc": "Manufacture of peripheral equipment",
+        "keywords": []
+    },
+    {
+        "code": "26300",
+        "desc": "Manufacture of communication equipment",
+        "keywords": []
+    },
+    {
+        "code": "26400",
+        "desc": "Manufacture of consumer electronics",
+        "keywords": []
+    },
+    {
+        "code": "26511",
+        "desc": "Manufacture of measuring, testing, navigating and control equipment",
+        "keywords": []
+    },
+    {
+        "code": "26512",
+        "desc": "Manufacture of industrial process control equipment manufacturing",
+        "keywords": []
+    },
+    {
+        "code": "26520",
+        "desc": "Manufacture of watches and clocks and parts",
+        "keywords": []
+    },
+    {
+        "code": "26600",
+        "desc": "Manufacture of irradiation, electro medical and electrotherapeutic equipment",
+        "keywords": []
+    },
+    {
+        "code": "26701",
+        "desc": "Manufacture of optical instruments and equipment",
+        "keywords": []
+    },
+    {
+        "code": "26702",
+        "desc": "Manufacture of photographic equipment",
+        "keywords": []
+    },
+    {
+        "code": "26800",
+        "desc": "Manufacture of magnetic and optical recording media",
+        "keywords": []
+    },
+    {
+        "code": "27101",
+        "desc": "Manufacture of electric motors, generators and transformers",
+        "keywords": []
+    },
+    {
+        "code": "27102",
+        "desc": "Manufacture of electricity distribution and control apparatus",
+        "keywords": []
+    },
+    {
+        "code": "27200",
+        "desc": "Manufacture of batteries and accumulators",
+        "keywords": []
+    },
+    {
+        "code": "27310",
+        "desc": "Manufacture of fibre optic cables",
+        "keywords": []
+    },
+    {
+        "code": "27320",
+        "desc": "Manufacture of other electronic and electric wires and cables",
+        "keywords": []
+    },
+    {
+        "code": "27330",
+        "desc": "Manufacture of current-carrying and non current-carrying wiring devices for electrical circuits regardless of material",
+        "keywords": []
+    },
+    {
+        "code": "27400",
+        "desc": "Manufacture of electric lighting equipment",
+        "keywords": []
+    },
+    {
+        "code": "27500",
+        "desc": "Manufacture of domestic appliances",
+        "keywords": []
+    },
+    {
+        "code": "27900",
+        "desc": "Manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances",
+        "keywords": []
+    },
+    {
+        "code": "28110",
+        "desc": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",
+        "keywords": []
+    },
+    {
+        "code": "28120",
+        "desc": "Manufacture of fluid power equipment",
+        "keywords": []
+    },
+    {
+        "code": "28130",
+        "desc": "Manufacture of other pumps, compressors, taps and valves",
+        "keywords": []
+    },
+    {
+        "code": "28140",
+        "desc": "Manufacture of bearings, gears, gearing and driving elements",
+        "keywords": []
+    },
+    {
+        "code": "28150",
+        "desc": "Manufacture of ovens, furnaces and furnace burners",
+        "keywords": []
+    },
+    {
+        "code": "28160",
+        "desc": "Manufacture of lifting and handling equipment",
+        "keywords": []
+    },
+    {
+        "code": "28170",
+        "desc": "Manufacture of office machinery and equipment (except computers and peripheral equipment)",
+        "keywords": []
+    },
+    {
+        "code": "28180",
+        "desc": "Manufacture of power-driven hand tools with self-contained electric or non-electric motor or pneumatic drives",
+        "keywords": []
+    },
+    {
+        "code": "28191",
+        "desc": "Manufacture of refrigerating or freezing industrial equipment",
+        "keywords": []
+    },
+    {
+        "code": "28192",
+        "desc": "Manufacture of air-conditioning machines, including for motor vehicles",
+        "keywords": []
+    },
+    {
+        "code": "28199",
+        "desc": "Manufacture of other general-purpose machinery n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "28210",
+        "desc": "Manufacture of agricultural and forestry machinery",
+        "keywords": []
+    },
+    {
+        "code": "28220",
+        "desc": "Manufacture of metal-forming machinery and machine tools",
+        "keywords": []
+    },
+    {
+        "code": "28230",
+        "desc": "Manufacture of machinery for metallurgy",
+        "keywords": []
+    },
+    {
+        "code": "28240",
+        "desc": "Manufacture of machinery for mining, quarrying and construction",
+        "keywords": []
+    },
+    {
+        "code": "28250",
+        "desc": "Manufacture of machinery for food, beverage and tobacco processing",
+        "keywords": []
+    },
+    {
+        "code": "28260",
+        "desc": "Manufacture of machinery for textile, apparel and leather production",
+        "keywords": []
+    },
+    {
+        "code": "28290",
+        "desc": "Manufacture of other special-purpose machinery n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "29101",
+        "desc": "Manufacture of passenger cars",
+        "keywords": []
+    },
+    {
+        "code": "29102",
+        "desc": "Manufacture of commercial vehicles",
+        "keywords": []
+    },
+    {
+        "code": "29200",
+        "desc": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",
+        "keywords": []
+    },
+    {
+        "code": "29300",
+        "desc": "Manufacture of parts and accessories for motor vehicles",
+        "keywords": []
+    },
+    {
+        "code": "30110",
+        "desc": "Building of ships and floating structures",
+        "keywords": []
+    },
+    {
+        "code": "30120",
+        "desc": "Building of pleasure and sporting boats",
+        "keywords": []
+    },
+    {
+        "code": "30200",
+        "desc": "Manufacture of railway locomotives and rolling stock",
+        "keywords": []
+    },
+    {
+        "code": "30300",
+        "desc": "Manufacture of air and spacecraft and related machinery",
+        "keywords": []
+    },
+    {
+        "code": "30400",
+        "desc": "Manufacture of military fighting vehicles",
+        "keywords": []
+    },
+    {
+        "code": "30910",
+        "desc": "Manufacture of motorcycles",
+        "keywords": []
+    },
+    {
+        "code": "30920",
+        "desc": "Manufacture of bicycles and invalid carriages",
+        "keywords": []
+    },
+    {
+        "code": "30990",
+        "desc": "Manufacture of other transport equipments n.e.c..",
+        "keywords": []
+    },
+    {
+        "code": "31001",
+        "desc": "Manufacture of wooden and cane furniture",
+        "keywords": []
+    },
+    {
+        "code": "31002",
+        "desc": "Manufacture of metal furniture",
+        "keywords": []
+    },
+    {
+        "code": "31003",
+        "desc": "Manufacture of mattress",
+        "keywords": []
+    },
+    {
+        "code": "31009",
+        "desc": "Manufacture of other furniture, except of stone, concrete or ceramic",
+        "keywords": []
+    },
+    {
+        "code": "32110",
+        "desc": "Manufacture of jewellery and related articles",
+        "keywords": []
+    },
+    {
+        "code": "32120",
+        "desc": "Manufacture of imitation jewellery and related articles",
+        "keywords": []
+    },
+    {
+        "code": "32200",
+        "desc": "Manufacture of musical instruments",
+        "keywords": []
+    },
+    {
+        "code": "32300",
+        "desc": "Manufacture of sports goods",
+        "keywords": []
+    },
+    {
+        "code": "32400",
+        "desc": "Manufacture of games and toys",
+        "keywords": []
+    },
+    {
+        "code": "32500",
+        "desc": "Manufacture of medical and dental instrument and supplies",
+        "keywords": []
+    },
+    {
+        "code": "32901",
+        "desc": "Manufacture of stationery",
+        "keywords": []
+    },
+    {
+        "code": "32909",
+        "desc": "Other manufacturing n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "33110",
+        "desc": "Repair of fabricated metal products",
+        "keywords": []
+    },
+    {
+        "code": "33120",
+        "desc": "Repair and maintenance of industrial machinery and equipment",
+        "keywords": []
+    },
+    {
+        "code": "33131",
+        "desc": "Repair and maintenance of the measuring, testing, navigating and control equipment",
+        "keywords": []
+    },
+    {
+        "code": "33132",
+        "desc": "Repair and maintenance of irradiation, electro medical and electrotherapeutic equipment",
+        "keywords": []
+    },
+    {
+        "code": "33133",
+        "desc": "Repair of optical instruments and photographic equipment",
+        "keywords": []
+    },
+    {
+        "code": "33140",
+        "desc": "Repair and maintenance of electrical equipment except domestic appliances",
+        "keywords": []
+    },
+    {
+        "code": "33150",
+        "desc": "Repair and maintenance of transport equipment except motorcycles and bicycles",
+        "keywords": []
+    },
+    {
+        "code": "33190",
+        "desc": "Repair and maintenance of other equipment n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "33200",
+        "desc": "Installation of industrial machinery and equipment",
+        "keywords": []
+    },
+    {
+        "code": "35101",
+        "desc": "Operation of generation facilities that produce electric energy",
+        "keywords": []
+    },
+    {
+        "code": "35102",
+        "desc": "Operation of transmission, distribution and sales of electricity",
+        "keywords": []
+    },
+    {
+        "code": "35201",
+        "desc": "Manufacture of gaseous fuels with a specified calorific value, by purification, blending and other processes from gases of various types including natural gas",
+        "keywords": []
+    },
+    {
+        "code": "35202",
+        "desc": "Transportation, distribution and supply of gaseous fuels of all kinds through a system of mains",
+        "keywords": []
+    },
+    {
+        "code": "35203",
+        "desc": "Sale of gas to the user through mains",
+        "keywords": []
+    },
+    {
+        "code": "35301",
+        "desc": "Production, collection and distribution of steam and hot water for heating, power and other purposes",
+        "keywords": []
+    },
+    {
+        "code": "35302",
+        "desc": "Production and distribution of cooled air, chilled water for cooling purposes",
+        "keywords": []
+    },
+    {
+        "code": "35303",
+        "desc": "Production of ice, including ice for food and non-food (e.g. cooling) purposes",
+        "keywords": []
+    },
+    {
+        "code": "36001",
+        "desc": "Purification and distribution of water for water supply purposes",
+        "keywords": []
+    },
+    {
+        "code": "36002",
+        "desc": "Desalting of sea or ground water to produce water as the principal product of interest",
+        "keywords": []
+    },
+    {
+        "code": "37000",
+        "desc": "Sewerage and similar activities",
+        "keywords": []
+    },
+    {
+        "code": "38111",
+        "desc": "Collection of non-hazardous solid waste (i.e. garbage) within a local area",
+        "keywords": []
+    },
+    {
+        "code": "38112",
+        "desc": "Collection of recyclable materials",
+        "keywords": []
+    },
+    {
+        "code": "38113",
+        "desc": "Collection of refuse in litter-bins in public places",
+        "keywords": []
+    },
+    {
+        "code": "38114",
+        "desc": "Collection of construction and demolition waste",
+        "keywords": []
+    },
+    {
+        "code": "38115",
+        "desc": "Operation of waste transfer stations for non-hazardous waste",
+        "keywords": []
+    },
+    {
+        "code": "38121",
+        "desc": "Collection of hazardous waste",
+        "keywords": []
+    },
+    {
+        "code": "38122",
+        "desc": "Operation of waste transfer stations for hazardous waste",
+        "keywords": []
+    },
+    {
+        "code": "38210",
+        "desc": "Treatment and disposal of non-hazardous waste",
+        "keywords": []
+    },
+    {
+        "code": "38220",
+        "desc": "Treatment and disposal of hazardous",
+        "keywords": []
+    },
+    {
+        "code": "38301",
+        "desc": "Mechanical crushing of metal waste",
+        "keywords": []
+    },
+    {
+        "code": "38302",
+        "desc": "Dismantling of automobiles, computers, televisions and other equipment for material recover",
+        "keywords": []
+    },
+    {
+        "code": "38303",
+        "desc": "Reclaiming of rubber such as used tires to produce secondary raw material",
+        "keywords": []
+    },
+    {
+        "code": "38304",
+        "desc": "Reuse of rubber products",
+        "keywords": []
+    },
+    {
+        "code": "38309",
+        "desc": "Materials recovery n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "39000",
+        "desc": "Remediation activities and other waste management services",
+        "keywords": []
+    },
+    {
+        "code": "41001",
+        "desc": "Residential buildings",
+        "keywords": []
+    },
+    {
+        "code": "41002",
+        "desc": "Non-residential buildings",
+        "keywords": []
+    },
+    {
+        "code": "41003",
+        "desc": "Assembly and erection of prefabricated constructions on the site",
+        "keywords": []
+    },
+    {
+        "code": "41009",
+        "desc": "Construction of buildings n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "42101",
+        "desc": "Construction of motorways, streets, roads, other vehicular and pedestrian ways",
+        "keywords": []
+    },
+    {
+        "code": "42102",
+        "desc": "Surface work on streets, roads, highways, bridges or tunnels",
+        "keywords": []
+    },
+    {
+        "code": "42103",
+        "desc": "Construction of bridges, including those for elevated highways",
+        "keywords": []
+    },
+    {
+        "code": "42104",
+        "desc": "Construction of tunnels",
+        "keywords": []
+    },
+    {
+        "code": "42105",
+        "desc": "Construction of railways and subways",
+        "keywords": []
+    },
+    {
+        "code": "42106",
+        "desc": "Construction of airfield/airports runways",
+        "keywords": []
+    },
+    {
+        "code": "42109",
+        "desc": "Construction of roads and railways n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "42201",
+        "desc": "Long-distance pipelines, communication and power lines",
+        "keywords": []
+    },
+    {
+        "code": "42202",
+        "desc": "Urban pipelines, urban communication and power lines; ancillary urban works",
+        "keywords": []
+    },
+    {
+        "code": "42203",
+        "desc": "Water main and line construction",
+        "keywords": []
+    },
+    {
+        "code": "42204",
+        "desc": "Reservoirs",
+        "keywords": []
+    },
+    {
+        "code": "42205",
+        "desc": "Construction of irrigation systems (canals)",
+        "keywords": []
+    },
+    {
+        "code": "42206",
+        "desc": "Construction of sewer systems (including repair) and sewage disposal plants",
+        "keywords": []
+    },
+    {
+        "code": "42207",
+        "desc": "Construction of power plants",
+        "keywords": []
+    },
+    {
+        "code": "42209",
+        "desc": "Construction of utility projects n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "42901",
+        "desc": "Construction of refineries",
+        "keywords": []
+    },
+    {
+        "code": "42902",
+        "desc": "Construction of waterways, harbour and river works, pleasure ports (marinas), locks",
+        "keywords": []
+    },
+    {
+        "code": "42903",
+        "desc": "Construction of dams and dykes",
+        "keywords": []
+    },
+    {
+        "code": "42904",
+        "desc": "Dredging of waterways",
+        "keywords": []
+    },
+    {
+        "code": "42905",
+        "desc": "Outdoor sports facilities",
+        "keywords": []
+    },
+    {
+        "code": "42906",
+        "desc": "Land subdivision with land improvement",
+        "keywords": []
+    },
+    {
+        "code": "42909",
+        "desc": "Construction of other engineering projects n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "43110",
+        "desc": "Demolition or wrecking of buildings and other structures",
+        "keywords": []
+    },
+    {
+        "code": "43121",
+        "desc": "Clearing of building sites",
+        "keywords": []
+    },
+    {
+        "code": "43122",
+        "desc": "Earth moving",
+        "keywords": []
+    },
+    {
+        "code": "43123",
+        "desc": "Drilling, boring and core sampling for construction, geophysical, geological or similar purposes",
+        "keywords": []
+    },
+    {
+        "code": "43124",
+        "desc": "Site preparation for mining",
+        "keywords": []
+    },
+    {
+        "code": "43125",
+        "desc": "Drainage of agricultural or forestry land",
+        "keywords": []
+    },
+    {
+        "code": "43126",
+        "desc": "Land reclamation work",
+        "keywords": []
+    },
+    {
+        "code": "43129",
+        "desc": "Other site preparation activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "43211",
+        "desc": "Electrical wiring and fittings",
+        "keywords": []
+    },
+    {
+        "code": "43212",
+        "desc": "Telecommunications wiring",
+        "keywords": []
+    },
+    {
+        "code": "43213",
+        "desc": "Computer network and cable television wiring",
+        "keywords": []
+    },
+    {
+        "code": "43214",
+        "desc": "Satellite dishes",
+        "keywords": []
+    },
+    {
+        "code": "43215",
+        "desc": "Lighting systems",
+        "keywords": []
+    },
+    {
+        "code": "43216",
+        "desc": "Security systems",
+        "keywords": []
+    },
+    {
+        "code": "43219",
+        "desc": "Electrical installation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "43221",
+        "desc": "Installation of heating systems (electric, gas and oil)",
+        "keywords": []
+    },
+    {
+        "code": "43222",
+        "desc": "Installation of furnaces, cooling towers",
+        "keywords": []
+    },
+    {
+        "code": "43223",
+        "desc": "Installation of non-electric solar energy collectors",
+        "keywords": []
+    },
+    {
+        "code": "43224",
+        "desc": "Installation of plumbing and sanitary equipment",
+        "keywords": []
+    },
+    {
+        "code": "43225",
+        "desc": "Installation of ventilation, refrigeration or air-conditioning equipment and ducts",
+        "keywords": []
+    },
+    {
+        "code": "43226",
+        "desc": "Installation of gas fittings",
+        "keywords": []
+    },
+    {
+        "code": "43227",
+        "desc": "Installation of fire and lawn sprinkler systems",
+        "keywords": []
+    },
+    {
+        "code": "43228",
+        "desc": "Steam piping",
+        "keywords": []
+    },
+    {
+        "code": "43229",
+        "desc": "Plumbing, heat and air-conditioning installation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "43291",
+        "desc": "Installation of elevators, escalators in buildings or other construction projects",
+        "keywords": []
+    },
+    {
+        "code": "43292",
+        "desc": "Installation of automated and revolving doors in buildings or other construction projects",
+        "keywords": []
+    },
+    {
+        "code": "43293",
+        "desc": "Installation of lighting conductors in buildings or other construction projects",
+        "keywords": []
+    },
+    {
+        "code": "43294",
+        "desc": "Installation vacuum cleaning systems in buildings or other construction projects",
+        "keywords": []
+    },
+    {
+        "code": "43295",
+        "desc": "Installation thermal, sound or vibration insulation in buildings or other construction projects",
+        "keywords": []
+    },
+    {
+        "code": "43299",
+        "desc": "Other construction installation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "43301",
+        "desc": "Installation of doors, windows, door and window frames of wood or other materials, fitted kitchens, staircases, shop fittings and furniture",
+        "keywords": []
+    },
+    {
+        "code": "43302",
+        "desc": "Laying, tiling, hanging or fitting in buildings or other construction projects of various types of materials",
+        "keywords": []
+    },
+    {
+        "code": "43303",
+        "desc": "Interior and exterior painting of buildings",
+        "keywords": []
+    },
+    {
+        "code": "43304",
+        "desc": "Painting of civil engineering structures",
+        "keywords": []
+    },
+    {
+        "code": "43305",
+        "desc": "Installation of glass, mirrors",
+        "keywords": []
+    },
+    {
+        "code": "43306",
+        "desc": "Interior completion",
+        "keywords": []
+    },
+    {
+        "code": "43307",
+        "desc": "Cleaning of new buildings after construction",
+        "keywords": []
+    },
+    {
+        "code": "43309",
+        "desc": "Other building completion and finishing work n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "43901",
+        "desc": "Construction of foundations, including pile driving",
+        "keywords": []
+    },
+    {
+        "code": "43902",
+        "desc": "Erection of non-self-manufactured steel elements",
+        "keywords": []
+    },
+    {
+        "code": "43903",
+        "desc": "Scaffolds and work platform erecting and dismantling",
+        "keywords": []
+    },
+    {
+        "code": "43904",
+        "desc": "Bricklaying and stone setting",
+        "keywords": []
+    },
+    {
+        "code": "43905",
+        "desc": "Construction of outdoor swimming pools",
+        "keywords": []
+    },
+    {
+        "code": "43906",
+        "desc": "Steam cleaning, sand blasting and similar activities for building exteriors",
+        "keywords": []
+    },
+    {
+        "code": "43907",
+        "desc": "Renting of construction machinery and equipment with operator (e.g. cranes)",
+        "keywords": []
+    },
+    {
+        "code": "43909",
+        "desc": "Other specialized construction activities, n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "45101",
+        "desc": "Wholesale and retail of new motor vehicles",
+        "keywords": []
+    },
+    {
+        "code": "45102",
+        "desc": "Wholesale and retail of used motor vehicles",
+        "keywords": []
+    },
+    {
+        "code": "45103",
+        "desc": "Sale of industrial, commercial and agriculture vehicles – new",
+        "keywords": []
+    },
+    {
+        "code": "45104",
+        "desc": "Sale of industrial, commercial and agriculture vehicles – used",
+        "keywords": []
+    },
+    {
+        "code": "45105",
+        "desc": "Sale by commission agents",
+        "keywords": []
+    },
+    {
+        "code": "45106",
+        "desc": "Car auctions",
+        "keywords": []
+    },
+    {
+        "code": "45109",
+        "desc": "Sale of other motor vehicles n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "45201",
+        "desc": "Maintenance and repair of motor vehicles",
+        "keywords": []
+    },
+    {
+        "code": "45202",
+        "desc": "Spraying and painting",
+        "keywords": []
+    },
+    {
+        "code": "45203",
+        "desc": "Washing and polishing (car wash)",
+        "keywords": []
+    },
+    {
+        "code": "45204",
+        "desc": "Repair of motor vehicle seats",
+        "keywords": []
+    },
+    {
+        "code": "45205",
+        "desc": "Installation of parts and accessories not as part of the manufacturing process",
+        "keywords": []
+    },
+    {
+        "code": "45300",
+        "desc": "Wholesale and retail sale of all kinds of parts, components, supplies, tools and accessories for motor vehicles",
+        "keywords": []
+    },
+    {
+        "code": "45401",
+        "desc": "Wholesale and retail sale of motorcycles",
+        "keywords": []
+    },
+    {
+        "code": "45402",
+        "desc": "Wholesale and retail sale of parts and accessories for motorcycles",
+        "keywords": []
+    },
+    {
+        "code": "45403",
+        "desc": "Repair and maintenance of motorcycles",
+        "keywords": []
+    },
+    {
+        "code": "46100",
+        "desc": "Wholesale on a fee or contract basis",
+        "keywords": []
+    },
+    {
+        "code": "46201",
+        "desc": "Wholesale of rubber",
+        "keywords": []
+    },
+    {
+        "code": "46202",
+        "desc": "Wholesale of palm oil",
+        "keywords": []
+    },
+    {
+        "code": "46203",
+        "desc": "Wholesale of lumber and timber",
+        "keywords": []
+    },
+    {
+        "code": "46204",
+        "desc": "Wholesale of flowers and plants",
+        "keywords": []
+    },
+    {
+        "code": "46205",
+        "desc": "Wholesale of livestock",
+        "keywords": []
+    },
+    {
+        "code": "46209",
+        "desc": "Wholesale of agricultural raw material and live animal n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46311",
+        "desc": "Wholesale of meat, poultry and eggs",
+        "keywords": []
+    },
+    {
+        "code": "46312",
+        "desc": "Wholesale of fish and other seafood",
+        "keywords": []
+    },
+    {
+        "code": "46313",
+        "desc": "Wholesale of fruits",
+        "keywords": []
+    },
+    {
+        "code": "46314",
+        "desc": "Wholesale of vegetables",
+        "keywords": []
+    },
+    {
+        "code": "46319",
+        "desc": "Wholesale of meat, fish, fruits and vegetables n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46321",
+        "desc": "Wholesale of rice, other grains, flour and sugars",
+        "keywords": []
+    },
+    {
+        "code": "46322",
+        "desc": "Wholesale of dairy products",
+        "keywords": []
+    },
+    {
+        "code": "46323",
+        "desc": "Wholesale of confectionary",
+        "keywords": []
+    },
+    {
+        "code": "46324",
+        "desc": "Wholesale of biscuits, cakes, breads and other bakery products",
+        "keywords": []
+    },
+    {
+        "code": "46325",
+        "desc": "Wholesale of coffee, tea, cocoa and other beverages",
+        "keywords": []
+    },
+    {
+        "code": "46326",
+        "desc": "Wholesale of beer, wine and spirits",
+        "keywords": []
+    },
+    {
+        "code": "46327",
+        "desc": "Wholesale of tobacco, cigar, cigarettes",
+        "keywords": []
+    },
+    {
+        "code": "46329",
+        "desc": "Wholesale of other foodstuffs",
+        "keywords": []
+    },
+    {
+        "code": "46411",
+        "desc": "Wholesale of yarn and fabrics",
+        "keywords": []
+    },
+    {
+        "code": "46412",
+        "desc": "Wholesale of household linen, towels, blankets",
+        "keywords": []
+    },
+    {
+        "code": "46413",
+        "desc": "Wholesale of clothing",
+        "keywords": []
+    },
+    {
+        "code": "46414",
+        "desc": "Wholesale of clothing accessories",
+        "keywords": []
+    },
+    {
+        "code": "46415",
+        "desc": "Wholesale of fur articles",
+        "keywords": []
+    },
+    {
+        "code": "46416",
+        "desc": "Wholesale of footwear",
+        "keywords": []
+    },
+    {
+        "code": "46417",
+        "desc": "Wholesale of haberdashery",
+        "keywords": []
+    },
+    {
+        "code": "46419",
+        "desc": "Wholesale of textiles, clothing n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46421",
+        "desc": "Wholesale of pharmaceutical and medical goods",
+        "keywords": []
+    },
+    {
+        "code": "46422",
+        "desc": "Wholesale of perfumeries, cosmetics, soap and toiletries",
+        "keywords": []
+    },
+    {
+        "code": "46431",
+        "desc": "Wholesale of bicycles and their parts and accessories",
+        "keywords": []
+    },
+    {
+        "code": "46432",
+        "desc": "Wholesale of photographic and optical goods",
+        "keywords": []
+    },
+    {
+        "code": "46433",
+        "desc": "Wholesale of leather goods and travel accessories",
+        "keywords": []
+    },
+    {
+        "code": "46434",
+        "desc": "Wholesale of musical instruments, games and toys, sports goods",
+        "keywords": []
+    },
+    {
+        "code": "46441",
+        "desc": "Wholesale of handicrafts and artificial flowers",
+        "keywords": []
+    },
+    {
+        "code": "46442",
+        "desc": "Wholesale of cut flowers and plants",
+        "keywords": []
+    },
+    {
+        "code": "46443",
+        "desc": "Wholesale of watches and clocks",
+        "keywords": []
+    },
+    {
+        "code": "46444",
+        "desc": "Wholesale of jewellery",
+        "keywords": []
+    },
+    {
+        "code": "46491",
+        "desc": "Wholesale of household furniture",
+        "keywords": []
+    },
+    {
+        "code": "46492",
+        "desc": "Wholesale of household appliances",
+        "keywords": []
+    },
+    {
+        "code": "46493",
+        "desc": "Wholesale of lighting equipment",
+        "keywords": []
+    },
+    {
+        "code": "46494",
+        "desc": "Wholesale of household utensils and cutlery, crockery, glassware, chinaware and pottery",
+        "keywords": [
+            "ssw"
+        ]
+    },
+    {
+        "code": "46495",
+        "desc": "Wholesale of woodenware, wickerwork and cork ware",
+        "keywords": []
+    },
+    {
+        "code": "46496",
+        "desc": "Wholesale of electrical and electronics goods",
+        "keywords": []
+    },
+    {
+        "code": "46497",
+        "desc": "Wholesale of stationery, books, magazines and newspapers",
+        "keywords": []
+    },
+    {
+        "code": "46499",
+        "desc": "Wholesale of other household goods n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46510",
+        "desc": "Wholesale of computer hardware, software and peripherals",
+        "keywords": []
+    },
+    {
+        "code": "46521",
+        "desc": "Wholesale of telephone and telecommunications equipment, cell phones, pagers",
+        "keywords": []
+    },
+    {
+        "code": "46522",
+        "desc": "Wholesale of electrical and electronic component and wiring accessories",
+        "keywords": []
+    },
+    {
+        "code": "46531",
+        "desc": "Wholesale of agricultural machinery, equipment and supplies",
+        "keywords": []
+    },
+    {
+        "code": "46532",
+        "desc": "Wholesale of lawn mowers however operated",
+        "keywords": []
+    },
+    {
+        "code": "46591",
+        "desc": "Wholesale of office machinery and business equipment, except computers and computer peripheral equipment",
+        "keywords": []
+    },
+    {
+        "code": "46592",
+        "desc": "Wholesale of office furniture",
+        "keywords": []
+    },
+    {
+        "code": "46593",
+        "desc": "Wholesale of computer-controlled machines tools",
+        "keywords": []
+    },
+    {
+        "code": "46594",
+        "desc": "Wholesale of industrial machinery, equipment and supplies",
+        "keywords": []
+    },
+    {
+        "code": "46595",
+        "desc": "Wholesale of construction and civil engineering machinery and equipment",
+        "keywords": []
+    },
+    {
+        "code": "46596",
+        "desc": "Wholesale of lift escalators, air-conditioning, security and fire fighting equipment",
+        "keywords": []
+    },
+    {
+        "code": "46599",
+        "desc": "Wholesale of other machinery for use in industry, trade and navigation and other services n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46611",
+        "desc": "Wholesale of petrol, diesel, lubricants",
+        "keywords": []
+    },
+    {
+        "code": "46612",
+        "desc": "Wholesale of liquefied petroleum gas",
+        "keywords": []
+    },
+    {
+        "code": "46619",
+        "desc": "Wholesale of other solid, liquid and gaseous fuels and related products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46621",
+        "desc": "Wholesale of ferrous and non-ferrous metal ores and metals",
+        "keywords": []
+    },
+    {
+        "code": "46622",
+        "desc": "Wholesale of ferrous and non-ferrous semi-finished metal ores and products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46631",
+        "desc": "Wholesale of logs, sawn timber, plywood, veneer and related products",
+        "keywords": []
+    },
+    {
+        "code": "46632",
+        "desc": "Wholesale of paints and varnish",
+        "keywords": []
+    },
+    {
+        "code": "46633",
+        "desc": "Wholesale of construction materials",
+        "keywords": []
+    },
+    {
+        "code": "46634",
+        "desc": "Wholesale of fittings and fixtures",
+        "keywords": []
+    },
+    {
+        "code": "46635",
+        "desc": "Wholesale of hot water heaters",
+        "keywords": []
+    },
+    {
+        "code": "46636",
+        "desc": "Wholesale of sanitary installation and equipment",
+        "keywords": []
+    },
+    {
+        "code": "46637",
+        "desc": "Wholesale of tools",
+        "keywords": []
+    },
+    {
+        "code": "46639",
+        "desc": "Wholesale of other construction materials, hardware, plumbing and heating equipment and supplies n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "46691",
+        "desc": "Wholesale of industrial chemicals",
+        "keywords": []
+    },
+    {
+        "code": "46692",
+        "desc": "Wholesale of fertilizers and agrochemical products",
+        "keywords": []
+    },
+    {
+        "code": "46693",
+        "desc": "Wholesale of plastic materials in primary forms",
+        "keywords": []
+    },
+    {
+        "code": "46694",
+        "desc": "Wholesale of rubber scrap",
+        "keywords": []
+    },
+    {
+        "code": "46695",
+        "desc": "Wholesale of textile fibres",
+        "keywords": []
+    },
+    {
+        "code": "46696",
+        "desc": "Wholesale of paper in bulk, packaging materials",
+        "keywords": []
+    },
+    {
+        "code": "46697",
+        "desc": "Wholesale of precious stones",
+        "keywords": []
+    },
+    {
+        "code": "46698",
+        "desc": "Wholesale of metal and non-metal waste and scrap and materials for recycling",
+        "keywords": []
+    },
+    {
+        "code": "46699",
+        "desc": "Dismantling of automobiles, computer, televisions and other equipment to obtain and re-sell usable parts",
+        "keywords": []
+    },
+    {
+        "code": "46901",
+        "desc": "Wholesale of aquarium fishes, pet birds and animals",
+        "keywords": []
+    },
+    {
+        "code": "46902",
+        "desc": "Wholesale of animal/pet food",
+        "keywords": []
+    },
+    {
+        "code": "46909",
+        "desc": "Wholesale of a variety of goods without any particular specialization n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "47111",
+        "desc": "Provision stores",
+        "keywords": []
+    },
+    {
+        "code": "47112",
+        "desc": "Supermarket",
+        "keywords": []
+    },
+    {
+        "code": "47113",
+        "desc": "Mini market",
+        "keywords": []
+    },
+    {
+        "code": "47114",
+        "desc": "Convenience stores",
+        "keywords": []
+    },
+    {
+        "code": "47191",
+        "desc": "Department stores",
+        "keywords": []
+    },
+    {
+        "code": "47192",
+        "desc": "Department stores and supermarket",
+        "keywords": []
+    },
+    {
+        "code": "47193",
+        "desc": "Hypermarket",
+        "keywords": []
+    },
+    {
+        "code": "47194",
+        "desc": "News agent and miscellaneous goods store",
+        "keywords": []
+    },
+    {
+        "code": "47199",
+        "desc": "Other retail sale in non-specialized stores n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "47211",
+        "desc": "Retail sale of rice, flour, other grains and sugars",
+        "keywords": []
+    },
+    {
+        "code": "47212",
+        "desc": "Retail sale of fresh or preserved vegetables and fruits",
+        "keywords": []
+    },
+    {
+        "code": "47213",
+        "desc": "Retail sale of dairy products and eggs",
+        "keywords": []
+    },
+    {
+        "code": "47214",
+        "desc": "Retail sale of meat and meat products (including poultry)",
+        "keywords": []
+    },
+    {
+        "code": "47215",
+        "desc": "Retail sale of fish, other seafood and products thereof",
+        "keywords": []
+    },
+    {
+        "code": "47216",
+        "desc": "Retail sale of bakery products and sugar confectionery",
+        "keywords": []
+    },
+    {
+        "code": "47217",
+        "desc": "Retail sale of mee, kuey teow, mee hoon, wantan skins and other food products made from flour or soya",
+        "keywords": []
+    },
+    {
+        "code": "47219",
+        "desc": "Retail sale of other food products n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "47221",
+        "desc": "Retail sale of beer, wine and spirits",
+        "keywords": []
+    },
+    {
+        "code": "47222",
+        "desc": "Retail sale of tea, coffee, soft drinks, mineral water and other beverages",
+        "keywords": []
+    },
+    {
+        "code": "47230",
+        "desc": "Retail sale of tobacco products in specialized store",
+        "keywords": []
+    },
+    {
+        "code": "47300",
+        "desc": "Retail sale of automotive fuel in specialized store",
+        "keywords": []
+    },
+    {
+        "code": "47411",
+        "desc": "Retail sale of computers, computer equipment and supplies",
+        "keywords": []
+    },
+    {
+        "code": "47412",
+        "desc": "Retail sale of video game consoles and non-customized software",
+        "keywords": []
+    },
+    {
+        "code": "47413",
+        "desc": "Retail sale of telecommunication equipment",
+        "keywords": []
+    },
+    {
+        "code": "47420",
+        "desc": "Retail sale of audio and video equipment in specialized store",
+        "keywords": []
+    },
+    {
+        "code": "47510",
+        "desc": "Retail sale of textiles in specialized stores",
+        "keywords": []
+    },
+    {
+        "code": "47520",
+        "desc": "Retail sale of construction materials, hardware, paints and glass",
+        "keywords": []
+    },
+    {
+        "code": "47531",
+        "desc": "Retail sale of carpets and rugs",
+        "keywords": []
+    },
+    {
+        "code": "47532",
+        "desc": "Retail sale of curtains and net curtains",
+        "keywords": []
+    },
+    {
+        "code": "47533",
+        "desc": "Retail sale of wallpaper and floor coverings",
+        "keywords": []
+    },
+    {
+        "code": "47591",
+        "desc": "Retail sale of household furniture",
+        "keywords": []
+    },
+    {
+        "code": "47592",
+        "desc": "Retail sale of articles for lighting",
+        "keywords": []
+    },
+    {
+        "code": "47593",
+        "desc": "Retail sale of household utensils and cutlery, crockery, glassware, chinaware and pottery",
+        "keywords": [
+            "ssw"
+        ]
+    },
+    {
+        "code": "47594",
+        "desc": "Retail sale of wood, cork goods and wickerwork goods",
+        "keywords": []
+    },
+    {
+        "code": "47595",
+        "desc": "Retail sale of household appliances",
+        "keywords": []
+    },
+    {
+        "code": "47596",
+        "desc": "Retail sale of musical instruments and scores",
+        "keywords": []
+    },
+    {
+        "code": "47597",
+        "desc": "Retail sale of security systems",
+        "keywords": []
+    },
+    {
+        "code": "47598",
+        "desc": "Retail sale of household articles and equipment n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "47611",
+        "desc": "Retail sale of office supplies and equipment",
+        "keywords": []
+    },
+    {
+        "code": "47612",
+        "desc": "Retail sale of books, newspapers and stationary",
+        "keywords": []
+    },
+    {
+        "code": "47620",
+        "desc": "Retail sale of musical records, audio tapes, compact discs , cassettes, video tapes, VCDs and DVDs, blank tapes and discs",
+        "keywords": []
+    },
+    {
+        "code": "47631",
+        "desc": "Retail sale of sports goods and equipments",
+        "keywords": []
+    },
+    {
+        "code": "47632",
+        "desc": "Retail sale of fishing equipment",
+        "keywords": []
+    },
+    {
+        "code": "47633",
+        "desc": "Retail sale of camping goods",
+        "keywords": []
+    },
+    {
+        "code": "47634",
+        "desc": "Retail sale of boats and equipments",
+        "keywords": []
+    },
+    {
+        "code": "47635",
+        "desc": "Retail sale of bicycles and related parts and accessories",
+        "keywords": []
+    },
+    {
+        "code": "47640",
+        "desc": "Retail sale of games and toys, made of all materials",
+        "keywords": []
+    },
+    {
+        "code": "47711",
+        "desc": "Retail sale of articles of clothing, articles of fur and clothing accessories",
+        "keywords": []
+    },
+    {
+        "code": "47712",
+        "desc": "Retail sale of footwear",
+        "keywords": []
+    },
+    {
+        "code": "47713",
+        "desc": "Retail sale of leather goods, accessories of leather and leather substitutes",
+        "keywords": []
+    },
+    {
+        "code": "47721",
+        "desc": "Stores specialized in retail sale of pharmaceuticals, medical and orthopaedic goods",
+        "keywords": []
+    },
+    {
+        "code": "47722",
+        "desc": "Stores specialized in retail sale of perfumery, cosmetic and toilet articles",
+        "keywords": []
+    },
+    {
+        "code": "47731",
+        "desc": "Retail sale of photographic and precision equipment",
+        "keywords": []
+    },
+    {
+        "code": "47732",
+        "desc": "Retail sale of watches and clocks",
+        "keywords": []
+    },
+    {
+        "code": "47733",
+        "desc": "Retail sale of jewellery",
+        "keywords": []
+    },
+    {
+        "code": "47734",
+        "desc": "Retail sale of flowers, plants, seeds, fertilizers",
+        "keywords": []
+    },
+    {
+        "code": "47735",
+        "desc": "Retail sale of souvenirs, craftwork and religious articles",
+        "keywords": []
+    },
+    {
+        "code": "47736",
+        "desc": "Retail sale of household fuel oil, cooking gas, coal and fuel wood",
+        "keywords": []
+    },
+    {
+        "code": "47737",
+        "desc": "Retail sale of spectacles and other optical goods",
+        "keywords": []
+    },
+    {
+        "code": "47738",
+        "desc": "Retail sale of aquarium fishes, pet animals and pet food",
+        "keywords": []
+    },
+    {
+        "code": "47739",
+        "desc": "Other retail sale of new goods in specialized stores n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "47741",
+        "desc": "Retail sale of second-hand books",
+        "keywords": []
+    },
+    {
+        "code": "47742",
+        "desc": "Retail sale of second-hand electrical and electronic goods",
+        "keywords": []
+    },
+    {
+        "code": "47743",
+        "desc": "Retail sale of antiques",
+        "keywords": []
+    },
+    {
+        "code": "47744",
+        "desc": "Activities of auctioning houses (retail)",
+        "keywords": []
+    },
+    {
+        "code": "47749",
+        "desc": "Retail sale of second-hand goods n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "47810",
+        "desc": "Retail sale of food, beverages and tobacco products via stalls or markets",
+        "keywords": []
+    },
+    {
+        "code": "47820",
+        "desc": "Retail sale of textiles, clothing and footwear via stalls or markets",
+        "keywords": []
+    },
+    {
+        "code": "47891",
+        "desc": "Retail sale of carpets and rugs via stalls or markets",
+        "keywords": []
+    },
+    {
+        "code": "47892",
+        "desc": "Retail sale of books via stalls or markets",
+        "keywords": []
+    },
+    {
+        "code": "47893",
+        "desc": "Retail sale of games and toys via stalls or markets",
+        "keywords": []
+    },
+    {
+        "code": "47894",
+        "desc": "Retail sale of household appliances and consumer electronics via stall or markets",
+        "keywords": []
+    },
+    {
+        "code": "47895",
+        "desc": "Retail sale of music and video recordings via stall or markets",
+        "keywords": []
+    },
+    {
+        "code": "47911",
+        "desc": "Retail sale of any kind of product by mail order",
+        "keywords": []
+    },
+    {
+        "code": "47912",
+        "desc": "Retail sale of any kind of product over the Internet",
+        "keywords": []
+    },
+    {
+        "code": "47913",
+        "desc": "Direct sale via television, radio and telephone",
+        "keywords": []
+    },
+    {
+        "code": "47914",
+        "desc": "Internet retail auctions",
+        "keywords": []
+    },
+    {
+        "code": "47991",
+        "desc": "Retail sale of any kind of product by direct sales or door-to-door sales persons",
+        "keywords": []
+    },
+    {
+        "code": "47992",
+        "desc": "Retail sale of any kind of product through vending machines",
+        "keywords": []
+    },
+    {
+        "code": "47999",
+        "desc": "Other retail sale not in stores, stalls or markets n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "49110",
+        "desc": "Passenger transport by inter-urban railways",
+        "keywords": []
+    },
+    {
+        "code": "49120",
+        "desc": "Freight transport by inter-urban, suburban and urban railways",
+        "keywords": []
+    },
+    {
+        "code": "49211",
+        "desc": "City bus services",
+        "keywords": []
+    },
+    {
+        "code": "49212",
+        "desc": "Urban and suburban railway passenger transport service",
+        "keywords": []
+    },
+    {
+        "code": "49221",
+        "desc": "Express bus services",
+        "keywords": []
+    },
+    {
+        "code": "49222",
+        "desc": "Employees bus services",
+        "keywords": []
+    },
+    {
+        "code": "49223",
+        "desc": "School bus services",
+        "keywords": []
+    },
+    {
+        "code": "49224",
+        "desc": "Taxi operation and limousine services",
+        "keywords": []
+    },
+    {
+        "code": "49225",
+        "desc": "Rental of cars with driver",
+        "keywords": []
+    },
+    {
+        "code": "49229",
+        "desc": "Other passenger land transport n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "49230",
+        "desc": "Freight transport by road",
+        "keywords": []
+    },
+    {
+        "code": "49300",
+        "desc": "Transport via pipeline",
+        "keywords": []
+    },
+    {
+        "code": "50111",
+        "desc": "Operation of excursion, cruise or sightseeing boats",
+        "keywords": []
+    },
+    {
+        "code": "50112",
+        "desc": "Operation of ferries, water taxis",
+        "keywords": []
+    },
+    {
+        "code": "50113",
+        "desc": "Rental of pleasure boats with crew for sea and coastal water transport (e.g. for fishing cruises)",
+        "keywords": []
+    },
+    {
+        "code": "50121",
+        "desc": "Transport of freight over seas and coastal waters, whether scheduled or not",
+        "keywords": []
+    },
+    {
+        "code": "50122",
+        "desc": "Transport by towing or pushing of barges, oil rigs",
+        "keywords": []
+    },
+    {
+        "code": "50211",
+        "desc": "Transport of passenger via rivers, canals, lakes and other inland waterways, including inside harbours and ports",
+        "keywords": []
+    },
+    {
+        "code": "50212",
+        "desc": "Rental of pleasure boats with crew for inland water transport",
+        "keywords": []
+    },
+    {
+        "code": "50220",
+        "desc": "Transport of freight via rivers, canals, lakes and other inland waterways, including inside harbours and ports",
+        "keywords": []
+    },
+    {
+        "code": "51101",
+        "desc": "Transport of passengers by air over regular routes and on regular schedules",
+        "keywords": []
+    },
+    {
+        "code": "51102",
+        "desc": "Non-scheduled transport of passenger by air",
+        "keywords": []
+    },
+    {
+        "code": "51103",
+        "desc": "Renting of air-transport equipment with operator for the purpose of passenger transportation",
+        "keywords": []
+    },
+    {
+        "code": "51201",
+        "desc": "Transport freight by air over regular routes and on regular schedules",
+        "keywords": []
+    },
+    {
+        "code": "51202",
+        "desc": "Non-scheduled transport of freight by air",
+        "keywords": []
+    },
+    {
+        "code": "51203",
+        "desc": "Renting of air-transport equipment with operator for the purpose of freight transportation",
+        "keywords": []
+    },
+    {
+        "code": "52100",
+        "desc": "Warehousing and storage services",
+        "keywords": []
+    },
+    {
+        "code": "52211",
+        "desc": "Operation of terminal facilities",
+        "keywords": []
+    },
+    {
+        "code": "52212",
+        "desc": "Towing and road side assistance",
+        "keywords": []
+    },
+    {
+        "code": "52213",
+        "desc": "Operation of parking facilities for motor vehicles (parking lots)",
+        "keywords": []
+    },
+    {
+        "code": "52214",
+        "desc": "Highway, bridge and tunnel operation services",
+        "keywords": []
+    },
+    {
+        "code": "52219",
+        "desc": "Other service activities incidental to land transportation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "52221",
+        "desc": "Port, harbours and piers operation services",
+        "keywords": []
+    },
+    {
+        "code": "52222",
+        "desc": "Vessel salvage and refloating services",
+        "keywords": []
+    },
+    {
+        "code": "52229",
+        "desc": "Other service activities incidental to water transportation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "52231",
+        "desc": "Operation of terminal facilities",
+        "keywords": []
+    },
+    {
+        "code": "52232",
+        "desc": "Airport and air-traffic-control activities",
+        "keywords": []
+    },
+    {
+        "code": "52233",
+        "desc": "Ground service activities on airfields",
+        "keywords": []
+    },
+    {
+        "code": "52234",
+        "desc": "Fire fighting and fire-prevention services at airports",
+        "keywords": []
+    },
+    {
+        "code": "52239",
+        "desc": "Other service activities incidental to air transportation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "52241",
+        "desc": "Stevedoring services",
+        "keywords": []
+    },
+    {
+        "code": "52249",
+        "desc": "Other cargo handling activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "52291",
+        "desc": "Forwarding of freight",
+        "keywords": []
+    },
+    {
+        "code": "52292",
+        "desc": "Brokerage for ship and aircraft space",
+        "keywords": []
+    },
+    {
+        "code": "52299",
+        "desc": "Other transportation support activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "53100",
+        "desc": "National postal services",
+        "keywords": []
+    },
+    {
+        "code": "53200",
+        "desc": "Courier activities other than national post activities",
+        "keywords": []
+    },
+    {
+        "code": "55101",
+        "desc": "Hotels and resort hotels",
+        "keywords": []
+    },
+    {
+        "code": "55102",
+        "desc": "Motels",
+        "keywords": []
+    },
+    {
+        "code": "55103",
+        "desc": "Apartment hotels",
+        "keywords": []
+    },
+    {
+        "code": "55104",
+        "desc": "Chalets",
+        "keywords": []
+    },
+    {
+        "code": "55105",
+        "desc": "Rest house/guest house",
+        "keywords": []
+    },
+    {
+        "code": "55106",
+        "desc": "Bed and breakfast units",
+        "keywords": []
+    },
+    {
+        "code": "55107",
+        "desc": "Hostels",
+        "keywords": []
+    },
+    {
+        "code": "55108",
+        "desc": "Home stay",
+        "keywords": []
+    },
+    {
+        "code": "55109",
+        "desc": "Other short term accommodation activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "55200",
+        "desc": "Camping grounds/sites and recreational vehicle parks",
+        "keywords": []
+    },
+    {
+        "code": "55900",
+        "desc": "Other accommodation",
+        "keywords": []
+    },
+    {
+        "code": "56101",
+        "desc": "Restaurants and restaurant cum night clubs",
+        "keywords": []
+    },
+    {
+        "code": "56102",
+        "desc": "Cafeterias/canteens",
+        "keywords": []
+    },
+    {
+        "code": "56103",
+        "desc": "Fast-food restaurants",
+        "keywords": []
+    },
+    {
+        "code": "56104",
+        "desc": "Ice cream truck vendors and parlours",
+        "keywords": []
+    },
+    {
+        "code": "56105",
+        "desc": "Mobile food carts",
+        "keywords": []
+    },
+    {
+        "code": "56106",
+        "desc": "Food stalls/hawkers",
+        "keywords": []
+    },
+    {
+        "code": "56107",
+        "desc": "Food or beverage, food and beverage preparation in market stalls/hawkers",
+        "keywords": []
+    },
+    {
+        "code": "56210",
+        "desc": "Event/food caterers",
+        "keywords": []
+    },
+    {
+        "code": "56290",
+        "desc": "Other food service activities",
+        "keywords": []
+    },
+    {
+        "code": "56301",
+        "desc": "Pubs, bars, discotheques, coffee houses, cocktail lounges and karaoke",
+        "keywords": []
+    },
+    {
+        "code": "56302",
+        "desc": "Coffee shops",
+        "keywords": []
+    },
+    {
+        "code": "56303",
+        "desc": "Drink stalls/hawkers",
+        "keywords": []
+    },
+    {
+        "code": "56304",
+        "desc": "Mobile beverage",
+        "keywords": []
+    },
+    {
+        "code": "56309",
+        "desc": "Others drinking places n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "58110",
+        "desc": "Publishing of books, brochures and other publications",
+        "keywords": []
+    },
+    {
+        "code": "58120",
+        "desc": "Publishing of mailing lists, telephone book, other directories",
+        "keywords": []
+    },
+    {
+        "code": "58130",
+        "desc": "Publishing of newspapers, journals, magazines and periodicals in print or electronic form",
+        "keywords": []
+    },
+    {
+        "code": "58190",
+        "desc": "Publishing of catalogues, photos, engraving and postcards, greeting cards, forms, posters, reproduction of works of art, advertising material and other printed matter n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "58201",
+        "desc": "Business and other applications",
+        "keywords": []
+    },
+    {
+        "code": "58202",
+        "desc": "Computer games for all platforms",
+        "keywords": []
+    },
+    {
+        "code": "58203",
+        "desc": "Operating systems",
+        "keywords": []
+    },
+    {
+        "code": "59110",
+        "desc": "Motion picture, video and television programme production activities",
+        "keywords": []
+    },
+    {
+        "code": "59120",
+        "desc": "Motion picture, video and television programme post-production activities",
+        "keywords": []
+    },
+    {
+        "code": "59130",
+        "desc": "Motion picture, video and television programme distribution activities",
+        "keywords": []
+    },
+    {
+        "code": "59140",
+        "desc": "Motion picture projection activities",
+        "keywords": []
+    },
+    {
+        "code": "59200",
+        "desc": "Sound recording and music publishing activities",
+        "keywords": []
+    },
+    {
+        "code": "60100",
+        "desc": "Radio broadcasting",
+        "keywords": []
+    },
+    {
+        "code": "60200",
+        "desc": "Television programming and broadcasting activities",
+        "keywords": []
+    },
+    {
+        "code": "61101",
+        "desc": "Wired telecommunications services",
+        "keywords": []
+    },
+    {
+        "code": "61102",
+        "desc": "Internet access providers by the operator of the wired infrastructure",
+        "keywords": []
+    },
+    {
+        "code": "61201",
+        "desc": "Wireless telecommunications services",
+        "keywords": []
+    },
+    {
+        "code": "61202",
+        "desc": "Internet access providers by the operator of the wireless infrastructure",
+        "keywords": []
+    },
+    {
+        "code": "61300",
+        "desc": "Satellite telecommunications services",
+        "keywords": []
+    },
+    {
+        "code": "61901",
+        "desc": "Provision of Internet access over networks between the client and the ISP not owned or controlled by the ISP",
+        "keywords": []
+    },
+    {
+        "code": "61902",
+        "desc": "Provision of telecommunications services over existing telecom connection",
+        "keywords": []
+    },
+    {
+        "code": "61903",
+        "desc": "Telecommunications resellers",
+        "keywords": []
+    },
+    {
+        "code": "61904",
+        "desc": "Provision of telecommunications services over existing telecom connections VOIP (Voice Over Internet Protocol) provision",
+        "keywords": []
+    },
+    {
+        "code": "61905",
+        "desc": "Provision of specialized telecommunications applications (e.g. satellite tracking, communications telemetry and radar station operations)",
+        "keywords": []
+    },
+    {
+        "code": "61909",
+        "desc": "Other telecommunications activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "62010",
+        "desc": "Computer programming activities",
+        "keywords": []
+    },
+    {
+        "code": "62021",
+        "desc": "Computer consultancy",
+        "keywords": []
+    },
+    {
+        "code": "62022",
+        "desc": "Computer facilities management activities",
+        "keywords": []
+    },
+    {
+        "code": "62091",
+        "desc": "Information Communication Technology (ICT) system security",
+        "keywords": []
+    },
+    {
+        "code": "62099",
+        "desc": "Other information technology service activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "63111",
+        "desc": "Activities of providing infrastructure for hosting, data processing services and related activities",
+        "keywords": []
+    },
+    {
+        "code": "63112",
+        "desc": "Data processing activities",
+        "keywords": []
+    },
+    {
+        "code": "63120",
+        "desc": "Web portals",
+        "keywords": []
+    },
+    {
+        "code": "63910",
+        "desc": "News syndicate and news agency activities furnishing news, pictures and features to the media (e.g. Bernama)",
+        "keywords": []
+    },
+    {
+        "code": "63990",
+        "desc": "Other information service activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "64110",
+        "desc": "Central banking",
+        "keywords": []
+    },
+    {
+        "code": "64191",
+        "desc": "Commercial Banks",
+        "keywords": []
+    },
+    {
+        "code": "64192",
+        "desc": "Islamic Banks",
+        "keywords": []
+    },
+    {
+        "code": "64193",
+        "desc": "Offshore Banks",
+        "keywords": []
+    },
+    {
+        "code": "64194",
+        "desc": "Investment Banks",
+        "keywords": []
+    },
+    {
+        "code": "64195",
+        "desc": "Development financial institutions (with deposits taking functions)",
+        "keywords": []
+    },
+    {
+        "code": "64199",
+        "desc": "Other monetary intermediation (with deposits taking functions) n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "64200",
+        "desc": "Activities of holding companies",
+        "keywords": []
+    },
+    {
+        "code": "64301",
+        "desc": "Venture capital companies",
+        "keywords": []
+    },
+    {
+        "code": "64302",
+        "desc": "Unit trust fund excludes REITs",
+        "keywords": []
+    },
+    {
+        "code": "64303",
+        "desc": "Property unit trust (REITs)",
+        "keywords": []
+    },
+    {
+        "code": "64304",
+        "desc": "Other administration of trusts accounts",
+        "keywords": []
+    },
+    {
+        "code": "64309",
+        "desc": "Trusts, funds and similar financial entities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "64910",
+        "desc": "Financial leasing activities",
+        "keywords": []
+    },
+    {
+        "code": "64921",
+        "desc": "Development financial institutions (without deposits taking functions)",
+        "keywords": []
+    },
+    {
+        "code": "64922",
+        "desc": "Credit card services",
+        "keywords": []
+    },
+    {
+        "code": "64923",
+        "desc": "Licensed money lending activities",
+        "keywords": []
+    },
+    {
+        "code": "64924",
+        "desc": "Pawnshops and pawnbrokers includes Ar-Rahnu",
+        "keywords": []
+    },
+    {
+        "code": "64925",
+        "desc": "Co-operative with credits functions",
+        "keywords": []
+    },
+    {
+        "code": "64929",
+        "desc": "Other credit granting n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "64991",
+        "desc": "Factoring companies",
+        "keywords": []
+    },
+    {
+        "code": "64992",
+        "desc": "Representative office of foreign banks",
+        "keywords": []
+    },
+    {
+        "code": "64993",
+        "desc": "Nominee companies",
+        "keywords": []
+    },
+    {
+        "code": "64999",
+        "desc": "Other financial service activities, except insurance/takaful and pension funding n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "65111",
+        "desc": "Life insurance",
+        "keywords": []
+    },
+    {
+        "code": "65112",
+        "desc": "Family takaful",
+        "keywords": []
+    },
+    {
+        "code": "65121",
+        "desc": "General insurance",
+        "keywords": []
+    },
+    {
+        "code": "65122",
+        "desc": "General takaful",
+        "keywords": []
+    },
+    {
+        "code": "65123",
+        "desc": "Composite insurance",
+        "keywords": []
+    },
+    {
+        "code": "65124",
+        "desc": "Offshore insurance",
+        "keywords": []
+    },
+    {
+        "code": "65125",
+        "desc": "Offshore takaful",
+        "keywords": []
+    },
+    {
+        "code": "65201",
+        "desc": "Life reinsurance",
+        "keywords": []
+    },
+    {
+        "code": "65202",
+        "desc": "Family retakaful",
+        "keywords": []
+    },
+    {
+        "code": "65203",
+        "desc": "General reinsurance",
+        "keywords": []
+    },
+    {
+        "code": "65204",
+        "desc": "General retakaful",
+        "keywords": []
+    },
+    {
+        "code": "65205",
+        "desc": "Composite retakaful",
+        "keywords": []
+    },
+    {
+        "code": "65206",
+        "desc": "Offshore reinsurance",
+        "keywords": []
+    },
+    {
+        "code": "65207",
+        "desc": "Offshore retakaful",
+        "keywords": []
+    },
+    {
+        "code": "65301",
+        "desc": "Pension funding",
+        "keywords": []
+    },
+    {
+        "code": "65302",
+        "desc": "Provident funding",
+        "keywords": []
+    },
+    {
+        "code": "66111",
+        "desc": "Stock exchanges",
+        "keywords": []
+    },
+    {
+        "code": "66112",
+        "desc": "Exchanges for commodity contracts",
+        "keywords": []
+    },
+    {
+        "code": "66113",
+        "desc": "Securities exchange",
+        "keywords": []
+    },
+    {
+        "code": "66114",
+        "desc": "Exchanges for commodity futures contracts",
+        "keywords": []
+    },
+    {
+        "code": "66119",
+        "desc": "Administration of financial markets n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "66121",
+        "desc": "Stock, share and bond brokers",
+        "keywords": []
+    },
+    {
+        "code": "66122",
+        "desc": "Commodity brokers and dealers",
+        "keywords": []
+    },
+    {
+        "code": "66123",
+        "desc": "Gold bullion dealers",
+        "keywords": []
+    },
+    {
+        "code": "66124",
+        "desc": "Foreign exchange broker and dealers (Bureaux de change)",
+        "keywords": []
+    },
+    {
+        "code": "66125",
+        "desc": "Money-changing services",
+        "keywords": []
+    },
+    {
+        "code": "66129",
+        "desc": "Other financial and commodity futures brokers and dealers",
+        "keywords": []
+    },
+    {
+        "code": "66191",
+        "desc": "Investment advisory services",
+        "keywords": []
+    },
+    {
+        "code": "66192",
+        "desc": "Financial consultancy services",
+        "keywords": []
+    },
+    {
+        "code": "66199",
+        "desc": "Activities auxiliary to finance n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "66211",
+        "desc": "Insurance adjusting service",
+        "keywords": []
+    },
+    {
+        "code": "66212",
+        "desc": "Takaful adjusting service",
+        "keywords": []
+    },
+    {
+        "code": "66221",
+        "desc": "Insurance agents",
+        "keywords": []
+    },
+    {
+        "code": "66222",
+        "desc": "Takaful agents",
+        "keywords": []
+    },
+    {
+        "code": "66223",
+        "desc": "Insurance brokers",
+        "keywords": []
+    },
+    {
+        "code": "66224",
+        "desc": "Takaful brokers",
+        "keywords": []
+    },
+    {
+        "code": "66290",
+        "desc": "Other activities auxiliary to insurance, takaful and pension funding",
+        "keywords": []
+    },
+    {
+        "code": "66301",
+        "desc": "Management of pension funds",
+        "keywords": []
+    },
+    {
+        "code": "66302",
+        "desc": "Assets/portfolio management",
+        "keywords": []
+    },
+    {
+        "code": "66303",
+        "desc": "Unit trust management companies",
+        "keywords": []
+    },
+    {
+        "code": "68101",
+        "desc": "Buying, selling, renting and operating of self-owned or leased real estate – residential buildings",
+        "keywords": []
+    },
+    {
+        "code": "68102",
+        "desc": "Buying, selling, renting and operating of self-owned or leased real estate – non-residential buildings",
+        "keywords": []
+    },
+    {
+        "code": "68103",
+        "desc": "Buying, selling, renting and operating of self-owned or leased real estate – land",
+        "keywords": []
+    },
+    {
+        "code": "68104",
+        "desc": "Development of building projects for own operation, i.e. for renting of space in these buildings",
+        "keywords": []
+    },
+    {
+        "code": "68109",
+        "desc": "Real estate activities with own or leased property n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "68201",
+        "desc": "Activities of real estate agents and brokers for buying, selling and renting of real estate",
+        "keywords": []
+    },
+    {
+        "code": "68202",
+        "desc": "Management of real estate on a fee or contract basis",
+        "keywords": []
+    },
+    {
+        "code": "68203",
+        "desc": "Appraisal services for real estate",
+        "keywords": []
+    },
+    {
+        "code": "68209",
+        "desc": "Real estate activities on a fee or contract basis n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "69100",
+        "desc": "Legal activities",
+        "keywords": []
+    },
+    {
+        "code": "69200",
+        "desc": "Accounting, bookkeeping and auditing activities; tax consultancy",
+        "keywords": []
+    },
+    {
+        "code": "70100",
+        "desc": "Activities of head offices",
+        "keywords": []
+    },
+    {
+        "code": "70201",
+        "desc": "Business management consultancy services",
+        "keywords": []
+    },
+    {
+        "code": "70202",
+        "desc": "Human resource consultancy services",
+        "keywords": []
+    },
+    {
+        "code": "70203",
+        "desc": "Consultancy services in public relation and communications",
+        "keywords": []
+    },
+    {
+        "code": "70209",
+        "desc": "Other management consultancy activities n.e.c",
+        "keywords": []
+    },
+    {
+        "code": "71101",
+        "desc": "Architectural services",
+        "keywords": []
+    },
+    {
+        "code": "71102",
+        "desc": "Engineering services",
+        "keywords": []
+    },
+    {
+        "code": "71103",
+        "desc": "Land surveying services",
+        "keywords": []
+    },
+    {
+        "code": "71109",
+        "desc": "Other architectural and engineering activities and related technical consultancy n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "71200",
+        "desc": "Technical testing and analysis",
+        "keywords": []
+    },
+    {
+        "code": "72101",
+        "desc": "Research and development on natural sciences",
+        "keywords": []
+    },
+    {
+        "code": "72102",
+        "desc": "Research and development on engineering and technology",
+        "keywords": []
+    },
+    {
+        "code": "72103",
+        "desc": "Research and development on medical sciences",
+        "keywords": []
+    },
+    {
+        "code": "72104",
+        "desc": "Research and development on biotechnology",
+        "keywords": []
+    },
+    {
+        "code": "72105",
+        "desc": "Research and development on agricultural sciences",
+        "keywords": []
+    },
+    {
+        "code": "72106",
+        "desc": "Research and development on Information Communication Technology (ICT)",
+        "keywords": []
+    },
+    {
+        "code": "72109",
+        "desc": "Research and development on other natural science and engineering n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "72201",
+        "desc": "Research and development on social sciences",
+        "keywords": []
+    },
+    {
+        "code": "72202",
+        "desc": "Research and development on humanities",
+        "keywords": []
+    },
+    {
+        "code": "72209",
+        "desc": "Research and development of other social sciences and humanities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "73100",
+        "desc": "Advertising",
+        "keywords": []
+    },
+    {
+        "code": "73200",
+        "desc": "Market research and public opinion polling",
+        "keywords": []
+    },
+    {
+        "code": "74101",
+        "desc": "Activities of interior decorators",
+        "keywords": []
+    },
+    {
+        "code": "74102",
+        "desc": "Services of graphic designers",
+        "keywords": []
+    },
+    {
+        "code": "74103",
+        "desc": "Fashion design services",
+        "keywords": []
+    },
+    {
+        "code": "74109",
+        "desc": "Specialized design activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "74200",
+        "desc": "Photographic activities",
+        "keywords": []
+    },
+    {
+        "code": "74901",
+        "desc": "Translation and interpretation activities",
+        "keywords": []
+    },
+    {
+        "code": "74902",
+        "desc": "Business brokerage activities",
+        "keywords": []
+    },
+    {
+        "code": "74903",
+        "desc": "Security consulting",
+        "keywords": []
+    },
+    {
+        "code": "74904",
+        "desc": "Activities of quantity surveyors",
+        "keywords": []
+    },
+    {
+        "code": "74905",
+        "desc": "Activities of consultants other than architecture, engineering and management consultants",
+        "keywords": []
+    },
+    {
+        "code": "74909",
+        "desc": "Any other professional, scientific and technical activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "75000",
+        "desc": "Veterinary activities",
+        "keywords": []
+    },
+    {
+        "code": "77101",
+        "desc": "Renting and operational leasing of passenger cars (without driver)",
+        "keywords": []
+    },
+    {
+        "code": "77102",
+        "desc": "Renting and operational leasing of trucks, utility trailers and recreational vehicles",
+        "keywords": []
+    },
+    {
+        "code": "77211",
+        "desc": "Renting and leasing of pleasure boats, canoes, sailboats",
+        "keywords": []
+    },
+    {
+        "code": "77212",
+        "desc": "Renting and leasing of bicycles",
+        "keywords": []
+    },
+    {
+        "code": "77213",
+        "desc": "Renting and leasing of beach chairs and umbrellas",
+        "keywords": []
+    },
+    {
+        "code": "77219",
+        "desc": "Renting and leasing of other sports equipment n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "77220",
+        "desc": "Renting of video tapes, records, CDs, DVDs",
+        "keywords": []
+    },
+    {
+        "code": "77291",
+        "desc": "Renting and leasing of textiles, wearing apparel and footwear",
+        "keywords": []
+    },
+    {
+        "code": "77292",
+        "desc": "Renting and leasing of furniture, pottery and glass, kitchen and tableware, electrical appliances and house wares",
+        "keywords": []
+    },
+    {
+        "code": "77293",
+        "desc": "Renting and leasing of jewellery, musical instruments, scenery and costumes",
+        "keywords": []
+    },
+    {
+        "code": "77294",
+        "desc": "Renting and leasing of books, journals and magazines",
+        "keywords": []
+    },
+    {
+        "code": "77295",
+        "desc": "Renting and leasing of machinery and equipment used by amateurs or as a hobby",
+        "keywords": []
+    },
+    {
+        "code": "77296",
+        "desc": "Renting of flowers and plants",
+        "keywords": []
+    },
+    {
+        "code": "77297",
+        "desc": "Renting and leasing of electronic equipment for household use",
+        "keywords": []
+    },
+    {
+        "code": "77299",
+        "desc": "Renting and leasing of other personal and household goods n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "77301",
+        "desc": "Renting and operational leasing, without operator, of other machinery and equipment that are generally used as capital goods by industries",
+        "keywords": []
+    },
+    {
+        "code": "77302",
+        "desc": "Renting and operational leasing of land-transport equipment (other than motor vehicles) without drivers",
+        "keywords": []
+    },
+    {
+        "code": "77303",
+        "desc": "Renting and operational leasing of water-transport equipment without operator",
+        "keywords": []
+    },
+    {
+        "code": "77304",
+        "desc": "Renting and operational leasing of air transport equipment without operator",
+        "keywords": []
+    },
+    {
+        "code": "77305",
+        "desc": "Renting and operational leasing of agricultural and forestry machinery and equipment without operator",
+        "keywords": []
+    },
+    {
+        "code": "77306",
+        "desc": "Renting and operational leasing of construction and civil-engineering machinery and equipment without operator",
+        "keywords": []
+    },
+    {
+        "code": "77307",
+        "desc": "Rental and operational leasing of office machinery and equipment without operator",
+        "keywords": []
+    },
+    {
+        "code": "77309",
+        "desc": "Renting and leasing of other machinery, equipment and tangible goods n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "77400",
+        "desc": "Leasing of intellectual property and similar products, except copyrighted works",
+        "keywords": []
+    },
+    {
+        "code": "78100",
+        "desc": "Activities of employment placement agencies",
+        "keywords": []
+    },
+    {
+        "code": "78200",
+        "desc": "Temporary employment agency activities",
+        "keywords": []
+    },
+    {
+        "code": "78300",
+        "desc": "Provision of human resources for client businesses",
+        "keywords": []
+    },
+    {
+        "code": "79110",
+        "desc": "Travel agency activities",
+        "keywords": []
+    },
+    {
+        "code": "79120",
+        "desc": "Tour operator activities",
+        "keywords": []
+    },
+    {
+        "code": "79900",
+        "desc": "Other reservation service and related activities",
+        "keywords": []
+    },
+    {
+        "code": "80100",
+        "desc": "Private security activities",
+        "keywords": []
+    },
+    {
+        "code": "80200",
+        "desc": "Security systems service activities",
+        "keywords": []
+    },
+    {
+        "code": "80300",
+        "desc": "Investigation and detective activities",
+        "keywords": []
+    },
+    {
+        "code": "81100",
+        "desc": "Combined facilities support activities",
+        "keywords": []
+    },
+    {
+        "code": "81210",
+        "desc": "General cleaning of buildings",
+        "keywords": []
+    },
+    {
+        "code": "81291",
+        "desc": "Cleaning of buildings of all types",
+        "keywords": []
+    },
+    {
+        "code": "81292",
+        "desc": "Swimming pool cleaning and maintenance services",
+        "keywords": []
+    },
+    {
+        "code": "81293",
+        "desc": "Cleaning of industrial machinery",
+        "keywords": []
+    },
+    {
+        "code": "81294",
+        "desc": "Cleaning of trains, buses, planes",
+        "keywords": []
+    },
+    {
+        "code": "81295",
+        "desc": "Cleaning of pest control services not in connection with agriculture",
+        "keywords": []
+    },
+    {
+        "code": "81296",
+        "desc": "Disinfecting and exterminating activities",
+        "keywords": []
+    },
+    {
+        "code": "81297",
+        "desc": "Cleaning of sea tankers",
+        "keywords": []
+    },
+    {
+        "code": "81299",
+        "desc": "Other building and industrial cleaning activities, n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "81300",
+        "desc": "Landscape care and maintenance service activities",
+        "keywords": []
+    },
+    {
+        "code": "82110",
+        "desc": "Combined office administrative service activities",
+        "keywords": []
+    },
+    {
+        "code": "82191",
+        "desc": "Document preparation, editing and/or proofreading",
+        "keywords": []
+    },
+    {
+        "code": "82192",
+        "desc": "Typing, word processing or desktop publishing",
+        "keywords": []
+    },
+    {
+        "code": "82193",
+        "desc": "Secretarial support services",
+        "keywords": []
+    },
+    {
+        "code": "82194",
+        "desc": "Transcription of documents and other secretarial services",
+        "keywords": []
+    },
+    {
+        "code": "82195",
+        "desc": "Provision of mailbox rental and other postal and mailing services",
+        "keywords": []
+    },
+    {
+        "code": "82196",
+        "desc": "Photocopying, duplicating, blueprinting",
+        "keywords": []
+    },
+    {
+        "code": "82199",
+        "desc": "Photocopying, document preparation and other specialized office support activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "82200",
+        "desc": "Activities of call centres",
+        "keywords": []
+    },
+    {
+        "code": "82301",
+        "desc": "Organization, promotions and/or management of event",
+        "keywords": []
+    },
+    {
+        "code": "82302",
+        "desc": "Meeting, incentive, convention, exhibition (MICE)",
+        "keywords": []
+    },
+    {
+        "code": "82910",
+        "desc": "Activities of collection agencies and credit bureaus",
+        "keywords": []
+    },
+    {
+        "code": "82920",
+        "desc": "Packaging activities on a fee or contract basis, whether or not these involve an automated process",
+        "keywords": []
+    },
+    {
+        "code": "82990",
+        "desc": "Other business support service activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "84111",
+        "desc": "General (overall) public administration activities",
+        "keywords": []
+    },
+    {
+        "code": "84112",
+        "desc": "Ancillary service activities for the government as a whole",
+        "keywords": []
+    },
+    {
+        "code": "84121",
+        "desc": "Administrative educational services",
+        "keywords": []
+    },
+    {
+        "code": "84122",
+        "desc": "Administrative health care services",
+        "keywords": []
+    },
+    {
+        "code": "84123",
+        "desc": "Administrative housing and local government services",
+        "keywords": []
+    },
+    {
+        "code": "84124",
+        "desc": "Administrative recreational, cultural, arts and sports services",
+        "keywords": []
+    },
+    {
+        "code": "84125",
+        "desc": "Administrative religious affairs services",
+        "keywords": []
+    },
+    {
+        "code": "84126",
+        "desc": "Administrative welfare services",
+        "keywords": []
+    },
+    {
+        "code": "84129",
+        "desc": "Other community and social affairs services",
+        "keywords": []
+    },
+    {
+        "code": "84131",
+        "desc": "Domestic and international trade affairs",
+        "keywords": []
+    },
+    {
+        "code": "84132",
+        "desc": "Agriculture and rural development affairs",
+        "keywords": []
+    },
+    {
+        "code": "84133",
+        "desc": "Primary industries affairs",
+        "keywords": []
+    },
+    {
+        "code": "84134",
+        "desc": "Public works affairs",
+        "keywords": []
+    },
+    {
+        "code": "84135",
+        "desc": "Transport affairs",
+        "keywords": []
+    },
+    {
+        "code": "84136",
+        "desc": "Energy, telecommunication and postal affairs",
+        "keywords": []
+    },
+    {
+        "code": "84137",
+        "desc": "Tourism affairs",
+        "keywords": []
+    },
+    {
+        "code": "84138",
+        "desc": "Human resource affairs",
+        "keywords": []
+    },
+    {
+        "code": "84139",
+        "desc": "Other regulation of and contribution to more efficient operation of businesses n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "84210",
+        "desc": "Foreign affairs",
+        "keywords": []
+    },
+    {
+        "code": "84220",
+        "desc": "Military and civil defence services",
+        "keywords": []
+    },
+    {
+        "code": "84231",
+        "desc": "Police service",
+        "keywords": []
+    },
+    {
+        "code": "84232",
+        "desc": "Prison service",
+        "keywords": []
+    },
+    {
+        "code": "84233",
+        "desc": "Immigration service",
+        "keywords": []
+    },
+    {
+        "code": "84234",
+        "desc": "National registration service",
+        "keywords": []
+    },
+    {
+        "code": "84235",
+        "desc": "Judiciary and legal service",
+        "keywords": []
+    },
+    {
+        "code": "84236",
+        "desc": "Firefighting and fire prevention",
+        "keywords": []
+    },
+    {
+        "code": "84239",
+        "desc": "Other public order and safety affairs related services",
+        "keywords": []
+    },
+    {
+        "code": "84300",
+        "desc": "Compulsory social security activities e.g. SOCSO",
+        "keywords": []
+    },
+    {
+        "code": "85101",
+        "desc": "Pre-primary education (Public)",
+        "keywords": []
+    },
+    {
+        "code": "85102",
+        "desc": "Pre-primary education (Private)",
+        "keywords": []
+    },
+    {
+        "code": "85103",
+        "desc": "Primary education (Public)",
+        "keywords": []
+    },
+    {
+        "code": "85104",
+        "desc": "Primary education (Private)",
+        "keywords": []
+    },
+    {
+        "code": "85211",
+        "desc": "General school secondary education (Public)",
+        "keywords": []
+    },
+    {
+        "code": "85212",
+        "desc": "General school secondary education (Private)",
+        "keywords": []
+    },
+    {
+        "code": "85221",
+        "desc": "Technical and vocational education below the level of higher education (Public)",
+        "keywords": []
+    },
+    {
+        "code": "85222",
+        "desc": "Technical and vocational education below the level of higher education (Private)",
+        "keywords": []
+    },
+    {
+        "code": "85301",
+        "desc": "College and university education (Public)",
+        "keywords": []
+    },
+    {
+        "code": "85302",
+        "desc": "College and university education (Private)",
+        "keywords": []
+    },
+    {
+        "code": "85411",
+        "desc": "Sports instruction",
+        "keywords": []
+    },
+    {
+        "code": "85412",
+        "desc": "Martial arts instruction",
+        "keywords": []
+    },
+    {
+        "code": "85419",
+        "desc": "Any other sports and recreation education n.e.c",
+        "keywords": []
+    },
+    {
+        "code": "85421",
+        "desc": "Music and dancing school",
+        "keywords": []
+    },
+    {
+        "code": "85429",
+        "desc": "Any other cultural education n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "85491",
+        "desc": "Tuition centre",
+        "keywords": []
+    },
+    {
+        "code": "85492",
+        "desc": "Driving school",
+        "keywords": []
+    },
+    {
+        "code": "85493",
+        "desc": "Religious instruction",
+        "keywords": []
+    },
+    {
+        "code": "85494",
+        "desc": "Computer training",
+        "keywords": []
+    },
+    {
+        "code": "85499",
+        "desc": "Others education n.e.c",
+        "keywords": []
+    },
+    {
+        "code": "85500",
+        "desc": "Educational support services for provision of non-instructional services",
+        "keywords": []
+    },
+    {
+        "code": "86101",
+        "desc": "Hospital activities",
+        "keywords": []
+    },
+    {
+        "code": "86102",
+        "desc": "Maternity home services (outside hospital)",
+        "keywords": []
+    },
+    {
+        "code": "86201",
+        "desc": "General medical services",
+        "keywords": []
+    },
+    {
+        "code": "86202",
+        "desc": "Specialized medical services",
+        "keywords": []
+    },
+    {
+        "code": "86203",
+        "desc": "Dental Services",
+        "keywords": []
+    },
+    {
+        "code": "86901",
+        "desc": "Dialysis Centres",
+        "keywords": []
+    },
+    {
+        "code": "86902",
+        "desc": "Medical laboratories",
+        "keywords": []
+    },
+    {
+        "code": "86903",
+        "desc": "Physiotherapy and occupational therapy service",
+        "keywords": []
+    },
+    {
+        "code": "86904",
+        "desc": "Acupuncture services",
+        "keywords": []
+    },
+    {
+        "code": "86905",
+        "desc": "Herbalist and homeopathy services",
+        "keywords": []
+    },
+    {
+        "code": "86906",
+        "desc": "Ambulance services",
+        "keywords": []
+    },
+    {
+        "code": "86909",
+        "desc": "Other human health services n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "87101",
+        "desc": "Homes for the elderly with nursing care",
+        "keywords": []
+    },
+    {
+        "code": "87102",
+        "desc": "Nursing homes",
+        "keywords": []
+    },
+    {
+        "code": "87103",
+        "desc": "Palliative or hospices",
+        "keywords": []
+    },
+    {
+        "code": "87201",
+        "desc": "Drug rehabilitation centres",
+        "keywords": []
+    },
+    {
+        "code": "87209",
+        "desc": "Others residential care activities for mental retardation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "87300",
+        "desc": "Residential care activities for the elderly and disabled",
+        "keywords": []
+    },
+    {
+        "code": "87901",
+        "desc": "Orphanages",
+        "keywords": []
+    },
+    {
+        "code": "87902",
+        "desc": "Welfare homes services",
+        "keywords": []
+    },
+    {
+        "code": "87909",
+        "desc": "Other residential care activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "88101",
+        "desc": "Day-care activities for the elderly or for handicapped adults",
+        "keywords": []
+    },
+    {
+        "code": "88109",
+        "desc": "Others social work activities without accommodation for the elderly and disabled",
+        "keywords": []
+    },
+    {
+        "code": "88901",
+        "desc": "Counselling service",
+        "keywords": []
+    },
+    {
+        "code": "88902",
+        "desc": "Child day-care activities",
+        "keywords": []
+    },
+    {
+        "code": "88909",
+        "desc": "Other social work activities without accommodation n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "90001",
+        "desc": "Theatrical producer, singer group band and orchestra entertainment services",
+        "keywords": []
+    },
+    {
+        "code": "90002",
+        "desc": "Operation of concert and theatre halls and other arts facilities",
+        "keywords": []
+    },
+    {
+        "code": "90003",
+        "desc": "Activities of sculptors, painters, cartoonists, engravers, etchers",
+        "keywords": []
+    },
+    {
+        "code": "90004",
+        "desc": "Activities of individual writers, for all subjects",
+        "keywords": []
+    },
+    {
+        "code": "90005",
+        "desc": "Activities of independent journalists",
+        "keywords": []
+    },
+    {
+        "code": "90006",
+        "desc": "Restoring of works of art such as painting",
+        "keywords": []
+    },
+    {
+        "code": "90007",
+        "desc": "Activities of producers or entrepreneurs of arts live events, with or without facilities",
+        "keywords": []
+    },
+    {
+        "code": "90009",
+        "desc": "Creative, arts and entertainment activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "91011",
+        "desc": "Documentation and information activities of libraries of all kinds",
+        "keywords": []
+    },
+    {
+        "code": "91012",
+        "desc": "Stock photo libraries and services",
+        "keywords": []
+    },
+    {
+        "code": "91021",
+        "desc": "Operation of museums of all kinds",
+        "keywords": []
+    },
+    {
+        "code": "91022",
+        "desc": "Operation of historical sites and buildings",
+        "keywords": []
+    },
+    {
+        "code": "91031",
+        "desc": "Operation of botanical and zoological gardens",
+        "keywords": []
+    },
+    {
+        "code": "91032",
+        "desc": "Operation of nature reserves, including wildlife preservation",
+        "keywords": []
+    },
+    {
+        "code": "92000",
+        "desc": "Gambling and betting activities",
+        "keywords": []
+    },
+    {
+        "code": "93111",
+        "desc": "Football, hockey, cricket, baseball, badminton, futsal, paintball",
+        "keywords": []
+    },
+    {
+        "code": "93112",
+        "desc": "Racetracks for auto",
+        "keywords": []
+    },
+    {
+        "code": "93113",
+        "desc": "Equestrian clubs",
+        "keywords": []
+    },
+    {
+        "code": "93114",
+        "desc": "Swimming pools and stadiums, ice-skating arenas",
+        "keywords": []
+    },
+    {
+        "code": "93115",
+        "desc": "Track and field stadium",
+        "keywords": []
+    },
+    {
+        "code": "93116",
+        "desc": "Golf courses",
+        "keywords": []
+    },
+    {
+        "code": "93117",
+        "desc": "Bowling centre",
+        "keywords": []
+    },
+    {
+        "code": "93118",
+        "desc": "Fitness centres",
+        "keywords": []
+    },
+    {
+        "code": "93119",
+        "desc": "Organization and operation of outdoor or indoor sports events for professionals or amateurs by organizations with own facilities",
+        "keywords": []
+    },
+    {
+        "code": "93120",
+        "desc": "The operation of sports clubs such as football club, bowling club, swimming club",
+        "keywords": []
+    },
+    {
+        "code": "93191",
+        "desc": "Activities of producers or promoters of sports events, with or without facilities",
+        "keywords": []
+    },
+    {
+        "code": "93192",
+        "desc": "Activities of sports leagues and regulating bodies",
+        "keywords": []
+    },
+    {
+        "code": "93193",
+        "desc": "Activities of related to promotion of sporting events",
+        "keywords": []
+    },
+    {
+        "code": "93199",
+        "desc": "Other sports activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "93210",
+        "desc": "Activities of amusement parks and theme parks",
+        "keywords": []
+    },
+    {
+        "code": "93291",
+        "desc": "Activities of recreation parks and beaches",
+        "keywords": []
+    },
+    {
+        "code": "93292",
+        "desc": "Operation of recreational transport facilities (e.g. marinas)",
+        "keywords": []
+    },
+    {
+        "code": "93293",
+        "desc": "Renting of leisure and pleasure equipment as an integral part of recreational facilities",
+        "keywords": []
+    },
+    {
+        "code": "93294",
+        "desc": "Operation of fairs and shows of a recreational nature",
+        "keywords": []
+    },
+    {
+        "code": "93295",
+        "desc": "Operation of discotheques and dance floors",
+        "keywords": []
+    },
+    {
+        "code": "93296",
+        "desc": "Activities of producers or entrepreneurs of live events other than arts or sports events, with or without facilities",
+        "keywords": []
+    },
+    {
+        "code": "93297",
+        "desc": "Cyber Café/Internet Centre",
+        "keywords": []
+    },
+    {
+        "code": "93299",
+        "desc": "Any other amusement and recreation activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "94110",
+        "desc": "Activities of business and employers membership organizations",
+        "keywords": []
+    },
+    {
+        "code": "94120",
+        "desc": "Activities of professional membership organizations",
+        "keywords": []
+    },
+    {
+        "code": "94200",
+        "desc": "Activities of trade unions",
+        "keywords": []
+    },
+    {
+        "code": "94910",
+        "desc": "Activities of religious organizations",
+        "keywords": []
+    },
+    {
+        "code": "94920",
+        "desc": "Activities of political organizations",
+        "keywords": []
+    },
+    {
+        "code": "94990",
+        "desc": "Activities of other membership organizations n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "95111",
+        "desc": "Repair of electronic equipment",
+        "keywords": []
+    },
+    {
+        "code": "95112",
+        "desc": "Repair and maintenance of computer terminals",
+        "keywords": []
+    },
+    {
+        "code": "95113",
+        "desc": "Repair and maintenance of hand-held computers (PDAs)",
+        "keywords": []
+    },
+    {
+        "code": "95121",
+        "desc": "Repair and maintenance of cordless telephones",
+        "keywords": []
+    },
+    {
+        "code": "95122",
+        "desc": "Repair and maintenance of cellular phones",
+        "keywords": []
+    },
+    {
+        "code": "95123",
+        "desc": "Repair and maintenance of carrier equipment modems",
+        "keywords": []
+    },
+    {
+        "code": "95124",
+        "desc": "Repair and maintenance of fax machines",
+        "keywords": []
+    },
+    {
+        "code": "95125",
+        "desc": "Repair and maintenance of communications transmission equipment (e.g. routers, bridges, modems)",
+        "keywords": []
+    },
+    {
+        "code": "95126",
+        "desc": "Repair and maintenance of two-way radios",
+        "keywords": []
+    },
+    {
+        "code": "95127",
+        "desc": "Repair and maintenance of commercial TV and video cameras",
+        "keywords": []
+    },
+    {
+        "code": "95211",
+        "desc": "Repair and maintenance of television, radio receivers",
+        "keywords": []
+    },
+    {
+        "code": "95212",
+        "desc": "Repair and maintenance of (VCR/DVD/VCD)",
+        "keywords": []
+    },
+    {
+        "code": "95213",
+        "desc": "Repair and maintenance of CD players",
+        "keywords": []
+    },
+    {
+        "code": "95214",
+        "desc": "Repair and maintenance of household-type video cameras",
+        "keywords": []
+    },
+    {
+        "code": "95221",
+        "desc": "Repair and servicing of household appliances",
+        "keywords": []
+    },
+    {
+        "code": "95222",
+        "desc": "Repair and servicing of home and garden equipment",
+        "keywords": []
+    },
+    {
+        "code": "95230",
+        "desc": "Repair of footwear and leather goods",
+        "keywords": []
+    },
+    {
+        "code": "95240",
+        "desc": "Repair of furniture and home furnishings",
+        "keywords": []
+    },
+    {
+        "code": "95291",
+        "desc": "Repair of bicycles",
+        "keywords": []
+    },
+    {
+        "code": "95292",
+        "desc": "Repair and alteration of clothing",
+        "keywords": []
+    },
+    {
+        "code": "95293",
+        "desc": "Repair and alteration of jewellery",
+        "keywords": []
+    },
+    {
+        "code": "95294",
+        "desc": "Repair of watches, clocks and their parts",
+        "keywords": []
+    },
+    {
+        "code": "95295",
+        "desc": "Repair of sporting goods",
+        "keywords": []
+    },
+    {
+        "code": "95296",
+        "desc": "Repair of musical instruments",
+        "keywords": []
+    },
+    {
+        "code": "95299",
+        "desc": "Repair of other personal and household goods n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "96011",
+        "desc": "Laundering and dry-cleaning, pressing",
+        "keywords": []
+    },
+    {
+        "code": "96012",
+        "desc": "Carpet and rug shampooing, and drapery and curtain cleaning, whether on clients premises or not",
+        "keywords": []
+    },
+    {
+        "code": "96013",
+        "desc": "Provision of linens, work uniforms and related items by laundries",
+        "keywords": []
+    },
+    {
+        "code": "96014",
+        "desc": "Diaper supply services",
+        "keywords": []
+    },
+    {
+        "code": "96020",
+        "desc": "Hairdressing and other beauty treatment",
+        "keywords": []
+    },
+    {
+        "code": "96031",
+        "desc": "Preparing the dead for burial or cremation and embalming and morticians services",
+        "keywords": []
+    },
+    {
+        "code": "96032",
+        "desc": "Providing burial or cremation services",
+        "keywords": []
+    },
+    {
+        "code": "96033",
+        "desc": "Rental of equipped space in funeral parlours",
+        "keywords": []
+    },
+    {
+        "code": "96034",
+        "desc": "Rental or sale of graves",
+        "keywords": []
+    },
+    {
+        "code": "96035",
+        "desc": "Maintenance of graves and mausoleums",
+        "keywords": []
+    },
+    {
+        "code": "96091",
+        "desc": "Activities of sauna, steam baths, massage salons",
+        "keywords": []
+    },
+    {
+        "code": "96092",
+        "desc": "Astrological and spiritualists activities",
+        "keywords": []
+    },
+    {
+        "code": "96093",
+        "desc": "Social activities such as escort services, dating services, services of marriage bureaux",
+        "keywords": []
+    },
+    {
+        "code": "96094",
+        "desc": "Pet care services",
+        "keywords": []
+    },
+    {
+        "code": "96095",
+        "desc": "Genealogical organizations",
+        "keywords": []
+    },
+    {
+        "code": "96096",
+        "desc": "Shoe shiners, porters, valet car parkers",
+        "keywords": []
+    },
+    {
+        "code": "96097",
+        "desc": "Concession operation of coin-operated personal service machines",
+        "keywords": []
+    },
+    {
+        "code": "96099",
+        "desc": "Other service activities n.e.c.",
+        "keywords": []
+    },
+    {
+        "code": "97000",
+        "desc": "Activities of households as employers of domestic personnel",
+        "keywords": []
+    },
+    {
+        "code": "98100",
+        "desc": "Undifferentiated goods-producing activities of private households for own use",
+        "keywords": []
+    },
+    {
+        "code": "98200",
+        "desc": "Undifferentiated service-producing activities of private households for own use",
+        "keywords": []
+    },
+    {
+        "code": "99000",
+        "desc": "Activities of extraterritorial organizations and bodies",
+        "keywords": []
+    }
+]

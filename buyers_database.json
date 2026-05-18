@@ -1,0 +1,23 @@
+{
+    "Pemborong Jaya Maju Sdn Bhd": {
+        "tin": "C98765432100",
+        "reg_no": "202201056789",
+        "email": "accounts@jayamaju.com.my",
+        "phone": "07-3456789",
+        "address": "No. 88, Jalan Pemborong 3, Kawasan Perindustrian Tebrau, 81100 Johor Bahru, Johor"
+    },
+    "Syarikat Dagang Sepakat Enterprise": {
+        "tin": "C11223344550",
+        "reg_no": "202001078901",
+        "email": "beli@sepakat.com.my",
+        "phone": "07-8901234",
+        "address": "Lot 5, Jalan Usaha 7, Taman Perindustrian Senai, 81400 Senai, Johor"
+    },
+    "Global Trading & Supply Co": {
+        "tin": "C55667788990",
+        "reg_no": "201901034567",
+        "email": "purchase@globaltrading.my",
+        "phone": "03-12345678",
+        "address": "Unit 12-3, Menara KL, Jalan Sultan Ismail, 50250 Kuala Lumpur"
+    }
+}
